@@ -1,0 +1,374 @@
+Year: 2024
+========================================
+Topic 1:
+0.014*"moderators" + 0.006*"browser" + 0.005*"javascript" + 0.004*"project" + 0.004*"os" + 0.004*"traffic" + 0.004*"youtube" + 0.004*"photo" + 0.003*"text" + 0.003*"warning" + 0.003*"admins" + 0.003*"base" + 0.003*"hi" + 0.003*"hell" + 0.003*"morning" + 0.002*"attack" + 0.002*"syrup" + 0.002*"download" + 0.002*"currency" + 0.002*"hardware" + 0.002*"phishing" + 0.002*"distance" + 0.002*"bridge" + 0.002*"notes" + 0.002*"ds" + 0.002*"pass" + 0.002*"ge" + 0.002*"html" + 0.002*"articles" + 0.002*"aussie"
+
+Topic 2:
+0.005*"gui" + 0.005*"binance" + 0.004*"bible" + 0.004*"cities" + 0.003*"lmk" + 0.003*"darkmatter" + 0.003*"peoples" + 0.002*"black" + 0.002*"brickorigin" + 0.002*"boliviaimported" + 0.002*"rotterdam" + 0.002*"australian" + 0.002*"partnership" + 0.002*"facts" + 0.002*"coast" + 0.002*"backstreet" + 0.002*"fud" + 0.002*"tech" + 0.002*"ends" + 0.001*"facility" + 0.001*"dev" + 0.001*"etci" + 0.001*"handgrab" + 0.001*"llc" + 0.001*"medium" + 0.001*"sup" + 0.001*"boh" + 0.001*"jmf" + 0.001*"columbian" + 0.001*"autoshops"
+
+Topic 3:
+0.003*"media" + 0.003*"ps" + 0.003*"jobs" + 0.002*"isp" + 0.002*"ability" + 0.002*"responses" + 0.002*"hmu" + 0.002*"notification" + 0.002*"agent" + 0.002*"assistance" + 0.002*"university" + 0.002*"swiss" + 0.002*"elysium" + 0.002*"thx" + 0.002*"worker" + 0.002*"ndd" + 0.002*"punisher" + 0.002*"surveillance" + 0.002*"russianmarket" + 0.002*"explanation" + 0.002*"bed" + 0.002*"captchas" + 0.002*"papers" + 0.001*"atlas" + 0.001*"rm" + 0.001*"fingerprint" + 0.001*"checkers" + 0.001*"random" + 0.001*"stimulants" + 0.001*"mistakes"
+
+Topic 4:
+0.003*"replies" + 0.002*"aaa" + 0.002*"hosting" + 0.002*"listingsalso" + 0.002*"brickssealed" + 0.002*"cocainesealed" + 0.002*"chapowlini" + 0.002*"filtered" + 0.002*"onlystarting" + 0.002*"owls" + 0.002*"rated" + 0.002*"eachstarting" + 0.002*"archetypour" + 0.002*"onlygramz" + 0.002*"marketplease" + 0.002*"weekdaysfind" + 0.002*"sourced" + 0.002*"enquires" + 0.002*"comewe" + 0.002*"experienceonlygramz" + 0.002*"ideasdo" + 0.002*"rxsubplease" + 0.002*"ultra" + 0.002*"panama" + 0.002*"ketaqueen" + 0.002*"marketvortex" + 0.002*"instance" + 0.002*"stars" + 0.002*"monkey" + 0.002*"triple"
+
+Topic 5:
+0.011*"mode" + 0.004*"ip" + 0.004*"network" + 0.003*"example" + 0.003*"websites" + 0.003*"pharma" + 0.003*"status" + 0.003*"software" + 0.003*"tools" + 0.003*"answer" + 0.003*"dl" + 0.003*"malware" + 0.003*"device" + 0.003*"excellence" + 0.002*"mods" + 0.002*"trouble" + 0.002*"quantities" + 0.002*"fent" + 0.002*"video" + 0.002*"messagehash" + 0.002*"emails" + 0.002*"captcha" + 0.002*"positivity" + 0.002*"bullshit" + 0.002*"bot" + 0.002*"flower" + 0.002*"ids" + 0.002*"cookies" + 0.002*"stores" + 0.002*"face"
+
+Topic 6:
+0.008*"serotonininc" + 0.005*"sulfate" + 0.005*"etizolam" + 0.005*"hackers" + 0.004*"subscribers" + 0.004*"serotonin" + 0.004*"positive" + 0.004*"hexen" + 0.004*"thebreakingbad" + 0.004*"flubromazolam" + 0.004*"clonazolam" + 0.004*"scadddbefd" + 0.004*"needlepoint" + 0.004*"profileeaefac" + 0.004*"afa" + 0.004*"gummies" + 0.004*"crystals" + 0.004*"mdmafind" + 0.003*"triple" + 0.003*"vendora" + 0.003*"ffd" + 0.003*"dafdeed" + 0.003*"inc" + 0.003*"weekend" + 0.003*"real" + 0.003*"powders" + 0.002*"droppers" + 0.002*"vanilla" + 0.002*"cypher" + 0.002*"marketswe"
+
+Topic 7:
+0.005*"idk" + 0.004*"secrets" + 0.004*"pillspsychedelics" + 0.004*"vanille" + 0.004*"wonders" + 0.004*"heights" + 0.004*"machine" + 0.004*"precious" + 0.004*"methdissociatives" + 0.004*"peek" + 0.004*"smeagol" + 0.004*"abode" + 0.004*"happydrug" + 0.004*"preciousstimulants" + 0.004*"lordoftherings" + 0.004*"lsdopioids" + 0.004*"needlesecstasy" + 0.004*"coconut" + 0.004*"bb" + 0.004*"joy" + 0.003*"bc" + 0.003*"inventory" + 0.003*"dear" + 0.003*"program" + 0.003*"star" + 0.003*"mda" + 0.003*"cherry" + 0.003*"snowbunni" + 0.002*"happy" + 0.002*"feds"
+
+Topic 8:
+0.007*"advertising" + 0.006*"server" + 0.005*"iu" + 0.004*"apps" + 0.004*"tested" + 0.003*"anonymity" + 0.003*"encryption" + 0.003*"tutorial" + 0.002*"adress" + 0.002*"tomorrow" + 0.002*"gmail" + 0.002*"iphones" + 0.002*"sender" + 0.002*"rat" + 0.002*"progress" + 0.002*"dimplez" + 0.002*"mullvad" + 0.002*"bud" + 0.002*"leaks" + 0.002*"vials" + 0.002*"thursday" + 0.002*"iux" + 0.002*"alpha" + 0.002*"juice" + 0.002*"spec" + 0.002*"errors" + 0.002*"sodium" + 0.002*"banner" + 0.002*"bmk" + 0.001*"smtp"
+
+Topic 9:
+0.005*"thc" + 0.004*"le" + 0.004*"thoughts" + 0.004*"opium" + 0.004*"internet" + 0.003*"usd" + 0.003*"adderall" + 0.003*"ask" + 0.003*"adventure" + 0.003*"usb" + 0.003*"vapes" + 0.003*"import" + 0.003*"plants" + 0.003*"feelings" + 0.003*"journey" + 0.003*"hi" + 0.003*"combination" + 0.003*"brace" + 0.003*"compound" + 0.003*"stimulant" + 0.002*"vape" + 0.002*"embark" + 0.002*"empathy" + 0.002*"ecstasy" + 0.002*"tabletsghbgblmethanolisopropanolpmksulfateand" + 0.002*"askmmcmmccmctucihasjweedketamine" + 0.002*"punchcocaine" + 0.002*"pillsoxycontin" + 0.002*"rockscb" + 0.002*"substances"
+
+Topic 10:
+0.006*"vendor" + 0.005*"market" + 0.005*"time" + 0.005*"vendors" + 0.004*"store" + 0.004*"quality" + 0.004*"order" + 0.004*"thanks" + 0.004*"people" + 0.004*"day" + 0.004*"account" + 0.004*"way" + 0.003*"guys" + 0.003*"products" + 0.003*"shipping" + 0.003*"product" + 0.003*"markets" + 0.003*"us" + 0.003*"days" + 0.003*"prices" + 0.003*"abacus" + 0.003*"dread" + 0.003*"archetyp" + 0.003*"money" + 0.003*"mdma" + 0.003*"post" + 0.003*"price" + 0.003*"experience" + 0.003*"customers" + 0.003*"service"
+
+
+
+Year: 2021
+========================================
+Topic 1:
+0.003*"monopoly" + 0.002*"tails" + 0.002*"version" + 0.002*"market" + 0.002*"order" + 0.002*"day" + 0.002*"way" + 0.001*"time" + 0.001*"sgt" + 0.001*"vendor" + 0.001*"cannabinoids" + 0.001*"guys" + 0.001*"question" + 0.001*"questions" + 0.001*"orders" + 0.001*"markets" + 0.001*"seller" + 0.001*"thanks" + 0.001*"chemicals" + 0.001*"vendors" + 0.001*"resource" + 0.001*"details" + 0.001*"mdma" + 0.001*"year" + 0.001*"help" + 0.001*"password" + 0.001*"buyers" + 0.001*"vape" + 0.001*"accounts" + 0.001*"size"
+
+Topic 2:
+0.005*"tails" + 0.005*"wallet" + 0.004*"way" + 0.003*"monero" + 0.003*"market" + 0.003*"transaction" + 0.003*"dread" + 0.003*"update" + 0.002*"money" + 0.002*"vendor" + 0.002*"message" + 0.002*"order" + 0.002*"electrum" + 0.002*"gui" + 0.002*"site" + 0.002*"issues" + 0.002*"vendors" + 0.002*"people" + 0.002*"thanks" + 0.002*"orders" + 0.002*"dnm" + 0.002*"time" + 0.002*"days" + 0.002*"thing" + 0.002*"hours" + 0.002*"scam" + 0.002*"network" + 0.002*"week" + 0.002*"comments" + 0.002*"tor"
+
+Topic 3:
+0.003*"shop" + 0.003*"order" + 0.002*"market" + 0.002*"monopoly" + 0.002*"vendor" + 0.002*"code" + 0.001*"mistake" + 0.001*"home" + 0.001*"dread" + 0.001*"stonedsassy" + 0.001*"payment" + 0.001*"help" + 0.001*"tails" + 0.001*"pills" + 0.001*"people" + 0.001*"orders" + 0.001*"thanks" + 0.001*"usb" + 0.001*"problem" + 0.001*"itif" + 0.001*"side" + 0.001*"meth" + 0.001*"deal" + 0.001*"route" + 0.001*"amount" + 0.001*"heres" + 0.001*"vendors" + 0.001*"posts" + 0.001*"guys" + 0.001*"powder"
+
+Topic 4:
+0.003*"pills" + 0.003*"option" + 0.002*"help" + 0.002*"people" + 0.002*"tips" + 0.002*"time" + 0.002*"tails" + 0.002*"xtc" + 0.002*"guys" + 0.002*"days" + 0.002*"step" + 0.002*"title" + 0.002*"page" + 0.001*"tor" + 0.001*"question" + 0.001*"dread" + 0.001*"recipe" + 0.001*"info" + 0.001*"java" + 0.001*"issue" + 0.001*"vendor" + 0.001*"wallet" + 0.001*"way" + 0.001*"thx" + 0.001*"community" + 0.001*"ideas" + 0.001*"posts" + 0.001*"linux" + 0.001*"script" + 0.001*"xmr"
+
+Topic 5:
+0.001*"eachx" + 0.001*"lot" + 0.001*"money" + 0.001*"onion" + 0.001*"monopoly" + 0.001*"people" + 0.001*"tor" + 0.001*"cocaine" + 0.001*"product" + 0.001*"prancers" + 0.001*"titles" + 0.001*"alternative" + 0.001*"vendor" + 0.001*"market" + 0.001*"leaves" + 0.001*"lsd" + 0.001*"adapter" + 0.001*"mushrooms" + 0.001*"coca" + 0.001*"pills" + 0.001*"others" + 0.001*"hello" + 0.001*"convo" + 0.001*"darknet" + 0.001*"tails" + 0.001*"failure" + 0.001*"team" + 0.001*"guide" + 0.001*"saudi" + 0.001*"powder"
+
+Topic 6:
+0.003*"help" + 0.003*"thanks" + 0.002*"tails" + 0.002*"way" + 0.002*"press" + 0.002*"application" + 0.001*"printer" + 0.001*"dmt" + 0.001*"delivery" + 0.001*"usb" + 0.001*"labels" + 0.001*"mdma" + 0.001*"clearnet" + 0.001*"dread" + 0.001*"windows" + 0.001*"vendor" + 0.001*"guys" + 0.001*"vpn" + 0.001*"time" + 0.001*"web" + 0.001*"people" + 0.001*"things" + 0.001*"id" + 0.001*"error" + 0.001*"server" + 0.001*"product" + 0.001*"pills" + 0.001*"case" + 0.001*"service" + 0.001*"days"
+
+Topic 7:
+0.002*"quality" + 0.002*"guides" + 0.001*"time" + 0.001*"tails" + 0.001*"error" + 0.001*"today" + 0.001*"news" + 0.001*"oil" + 0.001*"post" + 0.001*"banner" + 0.001*"method" + 0.001*"computer" + 0.001*"file" + 0.001*"problem" + 0.001*"mdma" + 0.001*"dread" + 0.001*"team" + 0.001*"paris" + 0.001*"cocaine" + 0.001*"nah" + 0.001*"chemist" + 0.001*"market" + 0.001*"tor" + 0.001*"way" + 0.001*"bridges" + 0.001*"shipping" + 0.001*"browser" + 0.001*"liquid" + 0.001*"whm" + 0.001*"monero"
+
+Topic 8:
+0.003*"time" + 0.003*"title" + 0.002*"dread" + 0.002*"order" + 0.002*"vendor" + 0.002*"file" + 0.002*"things" + 0.002*"thanks" + 0.002*"tails" + 0.002*"help" + 0.002*"day" + 0.002*"way" + 0.001*"tor" + 0.001*"link" + 0.001*"account" + 0.001*"market" + 0.001*"error" + 0.001*"fee" + 0.001*"post" + 0.001*"shit" + 0.001*"users" + 0.001*"product" + 0.001*"experience" + 0.001*"story" + 0.001*"obfs" + 0.001*"lot" + 0.001*"guys" + 0.001*"button" + 0.001*"browser" + 0.001*"everytime"
+
+Topic 9:
+0.004*"tails" + 0.002*"markets" + 0.002*"day" + 0.002*"paris" + 0.002*"tor" + 0.002*"guide" + 0.002*"paper" + 0.002*"idea" + 0.002*"users" + 0.002*"message" + 0.002*"vendor" + 0.002*"order" + 0.002*"monopoly" + 0.002*"site" + 0.002*"edibles" + 0.002*"guys" + 0.002*"information" + 0.002*"image" + 0.002*"market" + 0.002*"hash" + 0.002*"dread" + 0.002*"uk" + 0.002*"name" + 0.002*"bargain" + 0.002*"bridge" + 0.001*"hugbunter" + 0.001*"ip" + 0.001*"strains" + 0.001*"time" + 0.001*"profile"
+
+Topic 10:
+0.003*"quality" + 0.003*"crack" + 0.002*"process" + 0.002*"market" + 0.002*"stealth" + 0.002*"cloudy" + 0.002*"products" + 0.002*"thanks" + 0.002*"powder" + 0.002*"messing" + 0.002*"topshelf" + 0.002*"specialists" + 0.002*"absolutelty" + 0.002*"ninja" + 0.002*"snow" + 0.002*"peruvian" + 0.002*"ml" + 0.002*"ndd" + 0.002*"time" + 0.002*"orders" + 0.002*"monopoly" + 0.002*"top" + 0.002*"europe" + 0.002*"cocaine" + 0.002*"uk" + 0.002*"tails" + 0.002*"account" + 0.002*"acid" + 0.001*"cocainecome" + 0.001*"boot"
+
+
+
+Year: 2024
+========================================
+Topic 1:
+0.014*"moderators" + 0.006*"browser" + 0.005*"javascript" + 0.004*"project" + 0.004*"os" + 0.004*"traffic" + 0.004*"youtube" + 0.004*"photo" + 0.003*"text" + 0.003*"warning" + 0.003*"admins" + 0.003*"base" + 0.003*"hi" + 0.003*"hell" + 0.003*"morning" + 0.002*"attack" + 0.002*"syrup" + 0.002*"download" + 0.002*"currency" + 0.002*"hardware" + 0.002*"phishing" + 0.002*"distance" + 0.002*"bridge" + 0.002*"notes" + 0.002*"ds" + 0.002*"pass" + 0.002*"ge" + 0.002*"html" + 0.002*"articles" + 0.002*"aussie"
+
+Topic 2:
+0.005*"gui" + 0.005*"binance" + 0.004*"bible" + 0.004*"cities" + 0.003*"lmk" + 0.003*"darkmatter" + 0.003*"peoples" + 0.002*"black" + 0.002*"brickorigin" + 0.002*"boliviaimported" + 0.002*"rotterdam" + 0.002*"australian" + 0.002*"partnership" + 0.002*"facts" + 0.002*"coast" + 0.002*"backstreet" + 0.002*"fud" + 0.002*"tech" + 0.002*"ends" + 0.001*"facility" + 0.001*"dev" + 0.001*"etci" + 0.001*"handgrab" + 0.001*"llc" + 0.001*"medium" + 0.001*"sup" + 0.001*"boh" + 0.001*"jmf" + 0.001*"columbian" + 0.001*"autoshops"
+
+Topic 3:
+0.003*"media" + 0.003*"ps" + 0.003*"jobs" + 0.002*"isp" + 0.002*"ability" + 0.002*"responses" + 0.002*"hmu" + 0.002*"notification" + 0.002*"agent" + 0.002*"assistance" + 0.002*"university" + 0.002*"swiss" + 0.002*"elysium" + 0.002*"thx" + 0.002*"worker" + 0.002*"ndd" + 0.002*"punisher" + 0.002*"surveillance" + 0.002*"russianmarket" + 0.002*"explanation" + 0.002*"bed" + 0.002*"captchas" + 0.002*"papers" + 0.001*"atlas" + 0.001*"rm" + 0.001*"fingerprint" + 0.001*"checkers" + 0.001*"random" + 0.001*"stimulants" + 0.001*"mistakes"
+
+Topic 4:
+0.003*"replies" + 0.002*"aaa" + 0.002*"hosting" + 0.002*"listingsalso" + 0.002*"brickssealed" + 0.002*"cocainesealed" + 0.002*"chapowlini" + 0.002*"filtered" + 0.002*"onlystarting" + 0.002*"owls" + 0.002*"rated" + 0.002*"eachstarting" + 0.002*"archetypour" + 0.002*"onlygramz" + 0.002*"marketplease" + 0.002*"weekdaysfind" + 0.002*"sourced" + 0.002*"enquires" + 0.002*"comewe" + 0.002*"experienceonlygramz" + 0.002*"ideasdo" + 0.002*"rxsubplease" + 0.002*"ultra" + 0.002*"panama" + 0.002*"ketaqueen" + 0.002*"marketvortex" + 0.002*"instance" + 0.002*"stars" + 0.002*"monkey" + 0.002*"triple"
+
+Topic 5:
+0.011*"mode" + 0.004*"ip" + 0.004*"network" + 0.003*"example" + 0.003*"websites" + 0.003*"pharma" + 0.003*"status" + 0.003*"software" + 0.003*"tools" + 0.003*"answer" + 0.003*"dl" + 0.003*"malware" + 0.003*"device" + 0.003*"excellence" + 0.002*"mods" + 0.002*"trouble" + 0.002*"quantities" + 0.002*"fent" + 0.002*"video" + 0.002*"messagehash" + 0.002*"emails" + 0.002*"captcha" + 0.002*"positivity" + 0.002*"bullshit" + 0.002*"bot" + 0.002*"flower" + 0.002*"ids" + 0.002*"cookies" + 0.002*"stores" + 0.002*"face"
+
+Topic 6:
+0.008*"serotonininc" + 0.005*"sulfate" + 0.005*"etizolam" + 0.005*"hackers" + 0.004*"subscribers" + 0.004*"serotonin" + 0.004*"positive" + 0.004*"hexen" + 0.004*"thebreakingbad" + 0.004*"flubromazolam" + 0.004*"clonazolam" + 0.004*"scadddbefd" + 0.004*"needlepoint" + 0.004*"profileeaefac" + 0.004*"afa" + 0.004*"gummies" + 0.004*"crystals" + 0.004*"mdmafind" + 0.003*"triple" + 0.003*"vendora" + 0.003*"ffd" + 0.003*"dafdeed" + 0.003*"inc" + 0.003*"weekend" + 0.003*"real" + 0.003*"powders" + 0.002*"droppers" + 0.002*"vanilla" + 0.002*"cypher" + 0.002*"marketswe"
+
+Topic 7:
+0.005*"idk" + 0.004*"secrets" + 0.004*"pillspsychedelics" + 0.004*"vanille" + 0.004*"wonders" + 0.004*"heights" + 0.004*"machine" + 0.004*"precious" + 0.004*"methdissociatives" + 0.004*"peek" + 0.004*"smeagol" + 0.004*"abode" + 0.004*"happydrug" + 0.004*"preciousstimulants" + 0.004*"lordoftherings" + 0.004*"lsdopioids" + 0.004*"needlesecstasy" + 0.004*"coconut" + 0.004*"bb" + 0.004*"joy" + 0.003*"bc" + 0.003*"inventory" + 0.003*"dear" + 0.003*"program" + 0.003*"star" + 0.003*"mda" + 0.003*"cherry" + 0.003*"snowbunni" + 0.002*"happy" + 0.002*"feds"
+
+Topic 8:
+0.007*"advertising" + 0.006*"server" + 0.005*"iu" + 0.004*"apps" + 0.004*"tested" + 0.003*"anonymity" + 0.003*"encryption" + 0.003*"tutorial" + 0.002*"adress" + 0.002*"tomorrow" + 0.002*"gmail" + 0.002*"iphones" + 0.002*"sender" + 0.002*"rat" + 0.002*"progress" + 0.002*"dimplez" + 0.002*"mullvad" + 0.002*"bud" + 0.002*"leaks" + 0.002*"vials" + 0.002*"thursday" + 0.002*"iux" + 0.002*"alpha" + 0.002*"juice" + 0.002*"spec" + 0.002*"errors" + 0.002*"sodium" + 0.002*"banner" + 0.002*"bmk" + 0.001*"smtp"
+
+Topic 9:
+0.005*"thc" + 0.004*"le" + 0.004*"thoughts" + 0.004*"opium" + 0.004*"internet" + 0.003*"usd" + 0.003*"adderall" + 0.003*"ask" + 0.003*"adventure" + 0.003*"usb" + 0.003*"vapes" + 0.003*"import" + 0.003*"plants" + 0.003*"feelings" + 0.003*"journey" + 0.003*"hi" + 0.003*"combination" + 0.003*"brace" + 0.003*"compound" + 0.003*"stimulant" + 0.002*"vape" + 0.002*"embark" + 0.002*"empathy" + 0.002*"ecstasy" + 0.002*"tabletsghbgblmethanolisopropanolpmksulfateand" + 0.002*"askmmcmmccmctucihasjweedketamine" + 0.002*"punchcocaine" + 0.002*"pillsoxycontin" + 0.002*"rockscb" + 0.002*"substances"
+
+Topic 10:
+0.006*"vendor" + 0.005*"market" + 0.005*"time" + 0.005*"vendors" + 0.004*"store" + 0.004*"quality" + 0.004*"order" + 0.004*"thanks" + 0.004*"people" + 0.004*"day" + 0.004*"account" + 0.004*"way" + 0.003*"guys" + 0.003*"products" + 0.003*"shipping" + 0.003*"product" + 0.003*"markets" + 0.003*"us" + 0.003*"days" + 0.003*"prices" + 0.003*"abacus" + 0.003*"dread" + 0.003*"archetyp" + 0.003*"money" + 0.003*"mdma" + 0.003*"post" + 0.003*"price" + 0.003*"experience" + 0.003*"customers" + 0.003*"service"
+
+
+
+Year: 2021
+========================================
+Topic 1:
+0.003*"monopoly" + 0.002*"tails" + 0.002*"version" + 0.002*"market" + 0.002*"order" + 0.002*"day" + 0.002*"way" + 0.001*"time" + 0.001*"sgt" + 0.001*"vendor" + 0.001*"cannabinoids" + 0.001*"guys" + 0.001*"question" + 0.001*"questions" + 0.001*"orders" + 0.001*"markets" + 0.001*"seller" + 0.001*"thanks" + 0.001*"chemicals" + 0.001*"vendors" + 0.001*"resource" + 0.001*"details" + 0.001*"mdma" + 0.001*"year" + 0.001*"help" + 0.001*"password" + 0.001*"buyers" + 0.001*"vape" + 0.001*"accounts" + 0.001*"size"
+
+Topic 2:
+0.005*"tails" + 0.005*"wallet" + 0.004*"way" + 0.003*"monero" + 0.003*"market" + 0.003*"transaction" + 0.003*"dread" + 0.003*"update" + 0.002*"money" + 0.002*"vendor" + 0.002*"message" + 0.002*"order" + 0.002*"electrum" + 0.002*"gui" + 0.002*"site" + 0.002*"issues" + 0.002*"vendors" + 0.002*"people" + 0.002*"thanks" + 0.002*"orders" + 0.002*"dnm" + 0.002*"time" + 0.002*"days" + 0.002*"thing" + 0.002*"hours" + 0.002*"scam" + 0.002*"network" + 0.002*"week" + 0.002*"comments" + 0.002*"tor"
+
+Topic 3:
+0.003*"shop" + 0.003*"order" + 0.002*"market" + 0.002*"monopoly" + 0.002*"vendor" + 0.002*"code" + 0.001*"mistake" + 0.001*"home" + 0.001*"dread" + 0.001*"stonedsassy" + 0.001*"payment" + 0.001*"help" + 0.001*"tails" + 0.001*"pills" + 0.001*"people" + 0.001*"orders" + 0.001*"thanks" + 0.001*"usb" + 0.001*"problem" + 0.001*"itif" + 0.001*"side" + 0.001*"meth" + 0.001*"deal" + 0.001*"route" + 0.001*"amount" + 0.001*"heres" + 0.001*"vendors" + 0.001*"posts" + 0.001*"guys" + 0.001*"powder"
+
+Topic 4:
+0.003*"pills" + 0.003*"option" + 0.002*"help" + 0.002*"people" + 0.002*"tips" + 0.002*"time" + 0.002*"tails" + 0.002*"xtc" + 0.002*"guys" + 0.002*"days" + 0.002*"step" + 0.002*"title" + 0.002*"page" + 0.001*"tor" + 0.001*"question" + 0.001*"dread" + 0.001*"recipe" + 0.001*"info" + 0.001*"java" + 0.001*"issue" + 0.001*"vendor" + 0.001*"wallet" + 0.001*"way" + 0.001*"thx" + 0.001*"community" + 0.001*"ideas" + 0.001*"posts" + 0.001*"linux" + 0.001*"script" + 0.001*"xmr"
+
+Topic 5:
+0.001*"eachx" + 0.001*"lot" + 0.001*"money" + 0.001*"onion" + 0.001*"monopoly" + 0.001*"people" + 0.001*"tor" + 0.001*"cocaine" + 0.001*"product" + 0.001*"prancers" + 0.001*"titles" + 0.001*"alternative" + 0.001*"vendor" + 0.001*"market" + 0.001*"leaves" + 0.001*"lsd" + 0.001*"adapter" + 0.001*"mushrooms" + 0.001*"coca" + 0.001*"pills" + 0.001*"others" + 0.001*"hello" + 0.001*"convo" + 0.001*"darknet" + 0.001*"tails" + 0.001*"failure" + 0.001*"team" + 0.001*"guide" + 0.001*"saudi" + 0.001*"powder"
+
+Topic 6:
+0.003*"help" + 0.003*"thanks" + 0.002*"tails" + 0.002*"way" + 0.002*"press" + 0.002*"application" + 0.001*"printer" + 0.001*"dmt" + 0.001*"delivery" + 0.001*"usb" + 0.001*"labels" + 0.001*"mdma" + 0.001*"clearnet" + 0.001*"dread" + 0.001*"windows" + 0.001*"vendor" + 0.001*"guys" + 0.001*"vpn" + 0.001*"time" + 0.001*"web" + 0.001*"people" + 0.001*"things" + 0.001*"id" + 0.001*"error" + 0.001*"server" + 0.001*"product" + 0.001*"pills" + 0.001*"case" + 0.001*"service" + 0.001*"days"
+
+Topic 7:
+0.002*"quality" + 0.002*"guides" + 0.001*"time" + 0.001*"tails" + 0.001*"error" + 0.001*"today" + 0.001*"news" + 0.001*"oil" + 0.001*"post" + 0.001*"banner" + 0.001*"method" + 0.001*"computer" + 0.001*"file" + 0.001*"problem" + 0.001*"mdma" + 0.001*"dread" + 0.001*"team" + 0.001*"paris" + 0.001*"cocaine" + 0.001*"nah" + 0.001*"chemist" + 0.001*"market" + 0.001*"tor" + 0.001*"way" + 0.001*"bridges" + 0.001*"shipping" + 0.001*"browser" + 0.001*"liquid" + 0.001*"whm" + 0.001*"monero"
+
+Topic 8:
+0.003*"time" + 0.003*"title" + 0.002*"dread" + 0.002*"order" + 0.002*"vendor" + 0.002*"file" + 0.002*"things" + 0.002*"thanks" + 0.002*"tails" + 0.002*"help" + 0.002*"day" + 0.002*"way" + 0.001*"tor" + 0.001*"link" + 0.001*"account" + 0.001*"market" + 0.001*"error" + 0.001*"fee" + 0.001*"post" + 0.001*"shit" + 0.001*"users" + 0.001*"product" + 0.001*"experience" + 0.001*"story" + 0.001*"obfs" + 0.001*"lot" + 0.001*"guys" + 0.001*"button" + 0.001*"browser" + 0.001*"everytime"
+
+Topic 9:
+0.004*"tails" + 0.002*"markets" + 0.002*"day" + 0.002*"paris" + 0.002*"tor" + 0.002*"guide" + 0.002*"paper" + 0.002*"idea" + 0.002*"users" + 0.002*"message" + 0.002*"vendor" + 0.002*"order" + 0.002*"monopoly" + 0.002*"site" + 0.002*"edibles" + 0.002*"guys" + 0.002*"information" + 0.002*"image" + 0.002*"market" + 0.002*"hash" + 0.002*"dread" + 0.002*"uk" + 0.002*"name" + 0.002*"bargain" + 0.002*"bridge" + 0.001*"hugbunter" + 0.001*"ip" + 0.001*"strains" + 0.001*"time" + 0.001*"profile"
+
+Topic 10:
+0.003*"quality" + 0.003*"crack" + 0.002*"process" + 0.002*"market" + 0.002*"stealth" + 0.002*"cloudy" + 0.002*"products" + 0.002*"thanks" + 0.002*"powder" + 0.002*"messing" + 0.002*"topshelf" + 0.002*"specialists" + 0.002*"absolutelty" + 0.002*"ninja" + 0.002*"snow" + 0.002*"peruvian" + 0.002*"ml" + 0.002*"ndd" + 0.002*"time" + 0.002*"orders" + 0.002*"monopoly" + 0.002*"top" + 0.002*"europe" + 0.002*"cocaine" + 0.002*"uk" + 0.002*"tails" + 0.002*"account" + 0.002*"acid" + 0.001*"cocainecome" + 0.001*"boot"
+
+
+
+Year: 2024
+========================================
+Topic 1:
+0.014*"moderators" + 0.006*"browser" + 0.005*"javascript" + 0.004*"project" + 0.004*"os" + 0.004*"traffic" + 0.004*"youtube" + 0.004*"photo" + 0.003*"text" + 0.003*"warning" + 0.003*"admins" + 0.003*"base" + 0.003*"hi" + 0.003*"hell" + 0.003*"morning" + 0.002*"attack" + 0.002*"syrup" + 0.002*"download" + 0.002*"currency" + 0.002*"hardware" + 0.002*"phishing" + 0.002*"distance" + 0.002*"bridge" + 0.002*"notes" + 0.002*"ds" + 0.002*"pass" + 0.002*"ge" + 0.002*"html" + 0.002*"articles" + 0.002*"aussie"
+
+Topic 2:
+0.005*"gui" + 0.005*"binance" + 0.004*"bible" + 0.004*"cities" + 0.003*"lmk" + 0.003*"darkmatter" + 0.003*"peoples" + 0.002*"black" + 0.002*"brickorigin" + 0.002*"boliviaimported" + 0.002*"rotterdam" + 0.002*"australian" + 0.002*"partnership" + 0.002*"facts" + 0.002*"coast" + 0.002*"backstreet" + 0.002*"fud" + 0.002*"tech" + 0.002*"ends" + 0.001*"facility" + 0.001*"dev" + 0.001*"etci" + 0.001*"handgrab" + 0.001*"llc" + 0.001*"medium" + 0.001*"sup" + 0.001*"boh" + 0.001*"jmf" + 0.001*"columbian" + 0.001*"autoshops"
+
+Topic 3:
+0.003*"media" + 0.003*"ps" + 0.003*"jobs" + 0.002*"isp" + 0.002*"ability" + 0.002*"responses" + 0.002*"hmu" + 0.002*"notification" + 0.002*"agent" + 0.002*"assistance" + 0.002*"university" + 0.002*"swiss" + 0.002*"elysium" + 0.002*"thx" + 0.002*"worker" + 0.002*"ndd" + 0.002*"punisher" + 0.002*"surveillance" + 0.002*"russianmarket" + 0.002*"explanation" + 0.002*"bed" + 0.002*"captchas" + 0.002*"papers" + 0.001*"atlas" + 0.001*"rm" + 0.001*"fingerprint" + 0.001*"checkers" + 0.001*"random" + 0.001*"stimulants" + 0.001*"mistakes"
+
+Topic 4:
+0.003*"replies" + 0.002*"aaa" + 0.002*"hosting" + 0.002*"listingsalso" + 0.002*"brickssealed" + 0.002*"cocainesealed" + 0.002*"chapowlini" + 0.002*"filtered" + 0.002*"onlystarting" + 0.002*"owls" + 0.002*"rated" + 0.002*"eachstarting" + 0.002*"archetypour" + 0.002*"onlygramz" + 0.002*"marketplease" + 0.002*"weekdaysfind" + 0.002*"sourced" + 0.002*"enquires" + 0.002*"comewe" + 0.002*"experienceonlygramz" + 0.002*"ideasdo" + 0.002*"rxsubplease" + 0.002*"ultra" + 0.002*"panama" + 0.002*"ketaqueen" + 0.002*"marketvortex" + 0.002*"instance" + 0.002*"stars" + 0.002*"monkey" + 0.002*"triple"
+
+Topic 5:
+0.011*"mode" + 0.004*"ip" + 0.004*"network" + 0.003*"example" + 0.003*"websites" + 0.003*"pharma" + 0.003*"status" + 0.003*"software" + 0.003*"tools" + 0.003*"answer" + 0.003*"dl" + 0.003*"malware" + 0.003*"device" + 0.003*"excellence" + 0.002*"mods" + 0.002*"trouble" + 0.002*"quantities" + 0.002*"fent" + 0.002*"video" + 0.002*"messagehash" + 0.002*"emails" + 0.002*"captcha" + 0.002*"positivity" + 0.002*"bullshit" + 0.002*"bot" + 0.002*"flower" + 0.002*"ids" + 0.002*"cookies" + 0.002*"stores" + 0.002*"face"
+
+Topic 6:
+0.008*"serotonininc" + 0.005*"sulfate" + 0.005*"etizolam" + 0.005*"hackers" + 0.004*"subscribers" + 0.004*"serotonin" + 0.004*"positive" + 0.004*"hexen" + 0.004*"thebreakingbad" + 0.004*"flubromazolam" + 0.004*"clonazolam" + 0.004*"scadddbefd" + 0.004*"needlepoint" + 0.004*"profileeaefac" + 0.004*"afa" + 0.004*"gummies" + 0.004*"crystals" + 0.004*"mdmafind" + 0.003*"triple" + 0.003*"vendora" + 0.003*"ffd" + 0.003*"dafdeed" + 0.003*"inc" + 0.003*"weekend" + 0.003*"real" + 0.003*"powders" + 0.002*"droppers" + 0.002*"vanilla" + 0.002*"cypher" + 0.002*"marketswe"
+
+Topic 7:
+0.005*"idk" + 0.004*"secrets" + 0.004*"pillspsychedelics" + 0.004*"vanille" + 0.004*"wonders" + 0.004*"heights" + 0.004*"machine" + 0.004*"precious" + 0.004*"methdissociatives" + 0.004*"peek" + 0.004*"smeagol" + 0.004*"abode" + 0.004*"happydrug" + 0.004*"preciousstimulants" + 0.004*"lordoftherings" + 0.004*"lsdopioids" + 0.004*"needlesecstasy" + 0.004*"coconut" + 0.004*"bb" + 0.004*"joy" + 0.003*"bc" + 0.003*"inventory" + 0.003*"dear" + 0.003*"program" + 0.003*"star" + 0.003*"mda" + 0.003*"cherry" + 0.003*"snowbunni" + 0.002*"happy" + 0.002*"feds"
+
+Topic 8:
+0.007*"advertising" + 0.006*"server" + 0.005*"iu" + 0.004*"apps" + 0.004*"tested" + 0.003*"anonymity" + 0.003*"encryption" + 0.003*"tutorial" + 0.002*"adress" + 0.002*"tomorrow" + 0.002*"gmail" + 0.002*"iphones" + 0.002*"sender" + 0.002*"rat" + 0.002*"progress" + 0.002*"dimplez" + 0.002*"mullvad" + 0.002*"bud" + 0.002*"leaks" + 0.002*"vials" + 0.002*"thursday" + 0.002*"iux" + 0.002*"alpha" + 0.002*"juice" + 0.002*"spec" + 0.002*"errors" + 0.002*"sodium" + 0.002*"banner" + 0.002*"bmk" + 0.001*"smtp"
+
+Topic 9:
+0.005*"thc" + 0.004*"le" + 0.004*"thoughts" + 0.004*"opium" + 0.004*"internet" + 0.003*"usd" + 0.003*"adderall" + 0.003*"ask" + 0.003*"adventure" + 0.003*"usb" + 0.003*"vapes" + 0.003*"import" + 0.003*"plants" + 0.003*"feelings" + 0.003*"journey" + 0.003*"hi" + 0.003*"combination" + 0.003*"brace" + 0.003*"compound" + 0.003*"stimulant" + 0.002*"vape" + 0.002*"embark" + 0.002*"empathy" + 0.002*"ecstasy" + 0.002*"tabletsghbgblmethanolisopropanolpmksulfateand" + 0.002*"askmmcmmccmctucihasjweedketamine" + 0.002*"punchcocaine" + 0.002*"pillsoxycontin" + 0.002*"rockscb" + 0.002*"substances"
+
+Topic 10:
+0.006*"vendor" + 0.005*"market" + 0.005*"time" + 0.005*"vendors" + 0.004*"store" + 0.004*"quality" + 0.004*"order" + 0.004*"thanks" + 0.004*"people" + 0.004*"day" + 0.004*"account" + 0.004*"way" + 0.003*"guys" + 0.003*"products" + 0.003*"shipping" + 0.003*"product" + 0.003*"markets" + 0.003*"us" + 0.003*"days" + 0.003*"prices" + 0.003*"abacus" + 0.003*"dread" + 0.003*"archetyp" + 0.003*"money" + 0.003*"mdma" + 0.003*"post" + 0.003*"price" + 0.003*"experience" + 0.003*"customers" + 0.003*"service"
+
+
+
+Year: 2021
+========================================
+Topic 1:
+0.003*"monopoly" + 0.002*"tails" + 0.002*"version" + 0.002*"market" + 0.002*"order" + 0.002*"day" + 0.002*"way" + 0.001*"time" + 0.001*"sgt" + 0.001*"vendor" + 0.001*"cannabinoids" + 0.001*"guys" + 0.001*"question" + 0.001*"questions" + 0.001*"orders" + 0.001*"markets" + 0.001*"seller" + 0.001*"thanks" + 0.001*"chemicals" + 0.001*"vendors" + 0.001*"resource" + 0.001*"details" + 0.001*"mdma" + 0.001*"year" + 0.001*"help" + 0.001*"password" + 0.001*"buyers" + 0.001*"vape" + 0.001*"accounts" + 0.001*"size"
+
+Topic 2:
+0.005*"tails" + 0.005*"wallet" + 0.004*"way" + 0.003*"monero" + 0.003*"market" + 0.003*"transaction" + 0.003*"dread" + 0.003*"update" + 0.002*"money" + 0.002*"vendor" + 0.002*"message" + 0.002*"order" + 0.002*"electrum" + 0.002*"gui" + 0.002*"site" + 0.002*"issues" + 0.002*"vendors" + 0.002*"people" + 0.002*"thanks" + 0.002*"orders" + 0.002*"dnm" + 0.002*"time" + 0.002*"days" + 0.002*"thing" + 0.002*"hours" + 0.002*"scam" + 0.002*"network" + 0.002*"week" + 0.002*"comments" + 0.002*"tor"
+
+Topic 3:
+0.003*"shop" + 0.003*"order" + 0.002*"market" + 0.002*"monopoly" + 0.002*"vendor" + 0.002*"code" + 0.001*"mistake" + 0.001*"home" + 0.001*"dread" + 0.001*"stonedsassy" + 0.001*"payment" + 0.001*"help" + 0.001*"tails" + 0.001*"pills" + 0.001*"people" + 0.001*"orders" + 0.001*"thanks" + 0.001*"usb" + 0.001*"problem" + 0.001*"itif" + 0.001*"side" + 0.001*"meth" + 0.001*"deal" + 0.001*"route" + 0.001*"amount" + 0.001*"heres" + 0.001*"vendors" + 0.001*"posts" + 0.001*"guys" + 0.001*"powder"
+
+Topic 4:
+0.003*"pills" + 0.003*"option" + 0.002*"help" + 0.002*"people" + 0.002*"tips" + 0.002*"time" + 0.002*"tails" + 0.002*"xtc" + 0.002*"guys" + 0.002*"days" + 0.002*"step" + 0.002*"title" + 0.002*"page" + 0.001*"tor" + 0.001*"question" + 0.001*"dread" + 0.001*"recipe" + 0.001*"info" + 0.001*"java" + 0.001*"issue" + 0.001*"vendor" + 0.001*"wallet" + 0.001*"way" + 0.001*"thx" + 0.001*"community" + 0.001*"ideas" + 0.001*"posts" + 0.001*"linux" + 0.001*"script" + 0.001*"xmr"
+
+Topic 5:
+0.001*"eachx" + 0.001*"lot" + 0.001*"money" + 0.001*"onion" + 0.001*"monopoly" + 0.001*"people" + 0.001*"tor" + 0.001*"cocaine" + 0.001*"product" + 0.001*"prancers" + 0.001*"titles" + 0.001*"alternative" + 0.001*"vendor" + 0.001*"market" + 0.001*"leaves" + 0.001*"lsd" + 0.001*"adapter" + 0.001*"mushrooms" + 0.001*"coca" + 0.001*"pills" + 0.001*"others" + 0.001*"hello" + 0.001*"convo" + 0.001*"darknet" + 0.001*"tails" + 0.001*"failure" + 0.001*"team" + 0.001*"guide" + 0.001*"saudi" + 0.001*"powder"
+
+Topic 6:
+0.003*"help" + 0.003*"thanks" + 0.002*"tails" + 0.002*"way" + 0.002*"press" + 0.002*"application" + 0.001*"printer" + 0.001*"dmt" + 0.001*"delivery" + 0.001*"usb" + 0.001*"labels" + 0.001*"mdma" + 0.001*"clearnet" + 0.001*"dread" + 0.001*"windows" + 0.001*"vendor" + 0.001*"guys" + 0.001*"vpn" + 0.001*"time" + 0.001*"web" + 0.001*"people" + 0.001*"things" + 0.001*"id" + 0.001*"error" + 0.001*"server" + 0.001*"product" + 0.001*"pills" + 0.001*"case" + 0.001*"service" + 0.001*"days"
+
+Topic 7:
+0.002*"quality" + 0.002*"guides" + 0.001*"time" + 0.001*"tails" + 0.001*"error" + 0.001*"today" + 0.001*"news" + 0.001*"oil" + 0.001*"post" + 0.001*"banner" + 0.001*"method" + 0.001*"computer" + 0.001*"file" + 0.001*"problem" + 0.001*"mdma" + 0.001*"dread" + 0.001*"team" + 0.001*"paris" + 0.001*"cocaine" + 0.001*"nah" + 0.001*"chemist" + 0.001*"market" + 0.001*"tor" + 0.001*"way" + 0.001*"bridges" + 0.001*"shipping" + 0.001*"browser" + 0.001*"liquid" + 0.001*"whm" + 0.001*"monero"
+
+Topic 8:
+0.003*"time" + 0.003*"title" + 0.002*"dread" + 0.002*"order" + 0.002*"vendor" + 0.002*"file" + 0.002*"things" + 0.002*"thanks" + 0.002*"tails" + 0.002*"help" + 0.002*"day" + 0.002*"way" + 0.001*"tor" + 0.001*"link" + 0.001*"account" + 0.001*"market" + 0.001*"error" + 0.001*"fee" + 0.001*"post" + 0.001*"shit" + 0.001*"users" + 0.001*"product" + 0.001*"experience" + 0.001*"story" + 0.001*"obfs" + 0.001*"lot" + 0.001*"guys" + 0.001*"button" + 0.001*"browser" + 0.001*"everytime"
+
+Topic 9:
+0.004*"tails" + 0.002*"markets" + 0.002*"day" + 0.002*"paris" + 0.002*"tor" + 0.002*"guide" + 0.002*"paper" + 0.002*"idea" + 0.002*"users" + 0.002*"message" + 0.002*"vendor" + 0.002*"order" + 0.002*"monopoly" + 0.002*"site" + 0.002*"edibles" + 0.002*"guys" + 0.002*"information" + 0.002*"image" + 0.002*"market" + 0.002*"hash" + 0.002*"dread" + 0.002*"uk" + 0.002*"name" + 0.002*"bargain" + 0.002*"bridge" + 0.001*"hugbunter" + 0.001*"ip" + 0.001*"strains" + 0.001*"time" + 0.001*"profile"
+
+Topic 10:
+0.003*"quality" + 0.003*"crack" + 0.002*"process" + 0.002*"market" + 0.002*"stealth" + 0.002*"cloudy" + 0.002*"products" + 0.002*"thanks" + 0.002*"powder" + 0.002*"messing" + 0.002*"topshelf" + 0.002*"specialists" + 0.002*"absolutelty" + 0.002*"ninja" + 0.002*"snow" + 0.002*"peruvian" + 0.002*"ml" + 0.002*"ndd" + 0.002*"time" + 0.002*"orders" + 0.002*"monopoly" + 0.002*"top" + 0.002*"europe" + 0.002*"cocaine" + 0.002*"uk" + 0.002*"tails" + 0.002*"account" + 0.002*"acid" + 0.001*"cocainecome" + 0.001*"boot"
+
+
+
+Year: 2023
+========================================
+Topic 1:
+0.004*"tordoor" + 0.003*"clonazepam" + 0.003*"script" + 0.003*"priority" + 0.003*"meds" + 0.003*"mxe" + 0.003*"medication" + 0.003*"delta" + 0.002*"job" + 0.002*"oil" + 0.002*"steroids" + 0.002*"folks" + 0.002*"adhd" + 0.002*"pharmastate" + 0.002*"lion" + 0.002*"elvanse" + 0.002*"recon" + 0.002*"medsporter" + 0.002*"limit" + 0.002*"aussie" + 0.002*"morning" + 0.002*"freebase" + 0.002*"xanx" + 0.002*"prescriptions" + 0.002*"freedom" + 0.002*"ages" + 0.002*"diazepam" + 0.002*"modafinil" + 0.002*"antiinflammatory" + 0.002*"klonopins"
+
+Topic 2:
+0.003*"methylphenidate" + 0.003*"cannabia" + 0.003*"pickup" + 0.002*"partnership" + 0.002*"hydromorphone" + 0.002*"bo" + 0.002*"tier" + 0.002*"adverts" + 0.002*"qualities" + 0.002*"rcbc" + 0.002*"loveandhate" + 0.002*"cannabinoids" + 0.002*"propofol" + 0.002*"vendorpm" + 0.002*"mefuck" + 0.002*"scammersim" + 0.001*"rates" + 0.001*"dms" + 0.001*"regardsbagmanden" + 0.001*"commericial" + 0.001*"musti" + 0.001*"mcat" + 0.001*"proto" + 0.001*"evolution" + 0.001*"clam" + 0.001*"pressy" + 0.001*"dillies" + 0.001*"pyne" + 0.001*"ogs" + 0.001*"jwh"
+
+Topic 3:
+0.004*"shops" + 0.003*"gbl" + 0.003*"specifics" + 0.003*"prints" + 0.003*"coast" + 0.002*"asia" + 0.002*"dw" + 0.002*"non" + 0.002*"shelf" + 0.002*"sweden" + 0.002*"apb" + 0.002*"blister" + 0.002*"preview" + 0.002*"stars" + 0.002*"seler" + 0.002*"nboh" + 0.002*"gpt" + 0.002*"conditions" + 0.002*"mexico" + 0.002*"phentermine" + 0.002*"handful" + 0.002*"calicart" + 0.002*"accountsi" + 0.002*"bth" + 0.002*"dmxe" + 0.002*"ish" + 0.002*"kinds" + 0.002*"chat" + 0.001*"dk" + 0.001*"deaddrop"
+
+Topic 4:
+0.006*"pcp" + 0.005*"spray" + 0.004*"pce" + 0.003*"meo" + 0.003*"shipment" + 0.002*"japan" + 0.002*"ice" + 0.002*"snus" + 0.002*"endofdays" + 0.002*"mipt" + 0.002*"plus" + 0.002*"swedish" + 0.002*"dsmt" + 0.002*"bg" + 0.002*"legitimacy" + 0.002*"innertubes" + 0.002*"eod" + 0.002*"dob" + 0.001*"binder" + 0.001*"moxy" + 0.001*"themthanks" + 0.001*"occasionaly" + 0.001*"slovak" + 0.001*"oct" + 0.001*"ball" + 0.001*"serbia" + 0.001*"tutorial" + 0.001*"coincidence" + 0.001*"offerings" + 0.001*"caffeine"
+
+Topic 5:
+0.011*"moderators" + 0.010*"coke" + 0.007*"europe" + 0.007*"sellers" + 0.006*"canada" + 0.005*"quantities" + 0.005*"benzos" + 0.004*"parcel" + 0.004*"benzo" + 0.004*"shrooms" + 0.004*"germany" + 0.003*"experiences" + 0.003*"pregabalin" + 0.003*"opioids" + 0.003*"ritalin" + 0.003*"thedopehouse" + 0.003*"ecstasy" + 0.003*"suggestion" + 0.003*"canadian" + 0.003*"vapes" + 0.003*"updates" + 0.003*"south" + 0.002*"grade" + 0.002*"premium" + 0.002*"level" + 0.002*"cb" + 0.002*"lockers" + 0.002*"ass" + 0.002*"doctor" + 0.002*"chemical"
+
+Topic 6:
+0.006*"aus" + 0.004*"recommendation" + 0.003*"seeds" + 0.003*"nz" + 0.003*"taper" + 0.002*"ton" + 0.002*"roofies" + 0.002*"precursor" + 0.002*"recs" + 0.002*"cf" + 0.002*"alizaleeprotonmail" + 0.002*"newbies" + 0.002*"feedbacks" + 0.002*"tortaxi" + 0.002*"binance" + 0.002*"opions" + 0.002*"psyitthanks" + 0.001*"miptdipt" + 0.001*"euuk" + 0.001*"detox" + 0.001*"plates" + 0.001*"viawicr" + 0.001*"mushies" + 0.001*"wvdapyxjabber" + 0.001*"enhancement" + 0.001*"cover" + 0.001*"materialadbb" + 0.001*"leads" + 0.001*"emergency" + 0.001*"fluclotizolam"
+
+Topic 7:
+0.006*"fma" + 0.006*"vials" + 0.003*"liquids" + 0.003*"fedex" + 0.002*"difficulty" + 0.002*"bills" + 0.002*"ingredient" + 0.002*"anyones" + 0.002*"dr" + 0.002*"aphip" + 0.002*"wickr" + 0.002*"nicotine" + 0.002*"addy" + 0.002*"paczkomat" + 0.002*"sake" + 0.002*"whitehouse" + 0.002*"foil" + 0.002*"flualp" + 0.001*"boomshankar" + 0.001*"ofhigh" + 0.001*"formmc" + 0.001*"metfluoramphetamineany" + 0.001*"mmci" + 0.001*"psychs" + 0.001*"godsend" + 0.001*"mass" + 0.001*"analogues" + 0.001*"inbox" + 0.001*"prison" + 0.001*"pie"
+
+Topic 8:
+0.013*"vendor" + 0.012*"vendors" + 0.009*"market" + 0.008*"us" + 0.007*"thanks" + 0.006*"markets" + 0.006*"title" + 0.006*"help" + 0.005*"quality" + 0.005*"source" + 0.005*"bohemia" + 0.005*"dread" + 0.005*"time" + 0.005*"eu" + 0.004*"order" + 0.004*"guys" + 0.004*"people" + 0.004*"reviews" + 0.004*"shipping" + 0.004*"experience" + 0.004*"weed" + 0.004*"uk" + 0.004*"stuff" + 0.004*"price" + 0.004*"way" + 0.003*"one" + 0.003*"products" + 0.003*"country" + 0.003*"product" + 0.003*"powder"
+
+Topic 9:
+0.005*"replies" + 0.005*"vacation" + 0.004*"trolling" + 0.004*"german" + 0.003*"advertising" + 0.003*"dream" + 0.003*"mirrors" + 0.003*"platforms" + 0.003*"australian" + 0.003*"dextroamphetamine" + 0.003*"xmas" + 0.003*"irl" + 0.003*"budget" + 0.002*"archetype" + 0.002*"ddos" + 0.002*"fireworks" + 0.002*"luxury" + 0.002*"calli" + 0.002*"noids" + 0.002*"earth" + 0.002*"gordonalles" + 0.002*"united" + 0.002*"cc" + 0.002*"captagon" + 0.002*"rayfulwhyte" + 0.002*"purpose" + 0.002*"xbox" + 0.002*"holoscan" + 0.002*"vbv" + 0.002*"event"
+
+Topic 10:
+0.011*"staff" + 0.008*"seller" + 0.008*"hi" + 0.006*"thc" + 0.005*"carts" + 0.005*"india" + 0.004*"supply" + 0.004*"edibles" + 0.004*"bullshit" + 0.003*"ww" + 0.003*"tips" + 0.003*"pharma" + 0.003*"lots" + 0.003*"states" + 0.003*"europe" + 0.003*"side" + 0.003*"cmc" + 0.003*"valium" + 0.003*"btw" + 0.003*"press" + 0.003*"lmk" + 0.003*"game" + 0.003*"dealer" + 0.003*"hash" + 0.003*"games" + 0.002*"strains" + 0.002*"germany" + 0.002*"md" + 0.002*"phenelzine" + 0.002*"term"
+
+
+
+Year: 2022
+========================================
+Topic 1:
+0.011*"staff" + 0.005*"accounts" + 0.003*"amounts" + 0.003*"rc" + 0.003*"couple" + 0.003*"dnp" + 0.002*"lab" + 0.002*"amazon" + 0.002*"analogues" + 0.002*"wtf" + 0.002*"thread" + 0.002*"oil" + 0.002*"pcp" + 0.002*"drug" + 0.002*"websites" + 0.002*"pharmacy" + 0.002*"dealer" + 0.002*"europe" + 0.002*"home" + 0.002*"cards" + 0.002*"netherlands" + 0.002*"dn" + 0.002*"solution" + 0.002*"tdp" + 0.002*"variety" + 0.002*"safety" + 0.002*"tabs" + 0.002*"id" + 0.002*"scene" + 0.002*"ads"
+
+Topic 2:
+0.007*"carts" + 0.005*"plug" + 0.004*"countries" + 0.004*"sites" + 0.004*"edibles" + 0.004*"darkde" + 0.004*"title" + 0.004*"adderall" + 0.003*"sources" + 0.003*"vyvanse" + 0.003*"dd" + 0.003*"china" + 0.003*"pharma" + 0.003*"provider" + 0.003*"oxy" + 0.002*"dnms" + 0.002*"pack" + 0.002*"whm" + 0.002*"gummies" + 0.002*"speed" + 0.002*"gbl" + 0.002*"reasons" + 0.002*"asia" + 0.002*"items" + 0.002*"dm" + 0.002*"meo" + 0.002*"recommendation" + 0.002*"cali" + 0.002*"tips" + 0.002*"archetyp"
+
+Topic 3:
+0.006*"canada" + 0.003*"ghb" + 0.002*"newbie" + 0.002*"cannabis" + 0.002*"brick" + 0.002*"clones" + 0.002*"capsules" + 0.002*"ivermectin" + 0.002*"domestic" + 0.002*"binance" + 0.002*"subutex" + 0.002*"latin" + 0.002*"keys" + 0.002*"substance" + 0.002*"power" + 0.001*"italian" + 0.001*"tapentadol" + 0.001*"bans" + 0.001*"alp" + 0.001*"kingdom" + 0.001*"providers" + 0.001*"ebay" + 0.001*"coinbase" + 0.001*"vet" + 0.001*"naloxone" + 0.001*"buprenorphine" + 0.001*"bits" + 0.001*"cold" + 0.001*"oxy" + 0.001*"skrill"
+
+Topic 4:
+0.004*"dhl" + 0.002*"sale" + 0.002*"amphetamine" + 0.002*"nz" + 0.002*"codeine" + 0.002*"bar" + 0.002*"scamming" + 0.002*"valium" + 0.002*"chemicals" + 0.002*"canadian" + 0.002*"european" + 0.002*"speed" + 0.002*"paste" + 0.002*"china" + 0.002*"searches" + 0.002*"answer" + 0.002*"ephedrine" + 0.002*"india" + 0.001*"express" + 0.001*"ccs" + 0.001*"white" + 0.001*"pvp" + 0.001*"union" + 0.001*"results" + 0.001*"test" + 0.001*"offices" + 0.001*"minimum" + 0.001*"directions" + 0.001*"bucks" + 0.001*"europe"
+
+Topic 5:
+0.009*"moderators" + 0.005*"oxycodone" + 0.004*"ug" + 0.003*"poland" + 0.003*"fullz" + 0.003*"ids" + 0.003*"galenika" + 0.003*"hcl" + 0.002*"ww" + 0.002*"envelope" + 0.002*"ksalol" + 0.002*"passports" + 0.002*"anyone" + 0.002*"modafinil" + 0.002*"max" + 0.002*"dhc" + 0.002*"stories" + 0.002*"supply" + 0.002*"metals" + 0.001*"bills" + 0.001*"barbiturates" + 0.001*"online" + 0.001*"alternative" + 0.001*"fr" + 0.001*"fl" + 0.001*"fentanyl" + 0.001*"vyvanse" + 0.001*"dilaudid" + 0.001*"tab" + 0.001*"mhrb"
+
+Topic 6:
+0.004*"vapes" + 0.003*"cannahome" + 0.003*"turkey" + 0.002*"checks" + 0.002*"brands" + 0.002*"deliveries" + 0.002*"portugal" + 0.002*"caps" + 0.002*"liquid" + 0.002*"hmu" + 0.002*"clon" + 0.002*"new" + 0.002*"holiday" + 0.002*"lads" + 0.002*"notes" + 0.002*"loads" + 0.002*"europe" + 0.002*"oc" + 0.002*"bank" + 0.001*"kyc" + 0.001*"usps" + 0.001*"nicotine" + 0.001*"number" + 0.001*"food" + 0.001*"pharmastate" + 0.001*"north" + 0.001*"weight" + 0.001*"id" + 0.001*"dmt" + 0.001*"dollar"
+
+Topic 7:
+0.016*"vendor" + 0.013*"vendors" + 0.011*"thanks" + 0.011*"market" + 0.009*"markets" + 0.008*"us" + 0.007*"quality" + 0.007*"uk" + 0.006*"guys" + 0.006*"help" + 0.006*"title" + 0.006*"shipping" + 0.006*"time" + 0.005*"pills" + 0.005*"source" + 0.005*"price" + 0.005*"mdma" + 0.005*"eu" + 0.005*"order" + 0.005*"dread" + 0.004*"prices" + 0.004*"way" + 0.004*"product" + 0.004*"people" + 0.004*"usa" + 0.004*"lsd" + 0.004*"alphabay" + 0.004*"tails" + 0.004*"stuff" + 0.004*"advance"
+
+Topic 8:
+0.007*"europe" + 0.006*"powder" + 0.005*"wallet" + 0.003*"spain" + 0.003*"btc" + 0.003*"sellers" + 0.003*"aus" + 0.003*"form" + 0.003*"alpha" + 0.003*"access" + 0.003*"dmt" + 0.003*"oz" + 0.003*"supply" + 0.003*"suppliers" + 0.003*"number" + 0.003*"monero" + 0.003*"wickr" + 0.003*"web" + 0.002*"deposit" + 0.002*"text" + 0.002*"use" + 0.002*"spice" + 0.002*"pm" + 0.002*"crypto" + 0.002*"thc" + 0.002*"exchange" + 0.002*"drug" + 0.002*"telegram" + 0.002*"acid" + 0.002*"xmr"
+
+Topic 9:
+0.006*"ships" + 0.005*"india" + 0.004*"tordoor" + 0.004*"cb" + 0.003*"italy" + 0.003*"methadone" + 0.003*"cc" + 0.002*"facebook" + 0.002*"pricing" + 0.002*"vender" + 0.002*"recs" + 0.002*"po" + 0.002*"coca" + 0.002*"mda" + 0.002*"ritalin" + 0.002*"know" + 0.002*"real" + 0.002*"psychedelics" + 0.002*"austria" + 0.002*"crack" + 0.002*"nose" + 0.002*"budsbunny" + 0.002*"kits" + 0.001*"sources" + 0.001*"polish" + 0.001*"australian" + 0.001*"clam" + 0.001*"rolls" + 0.001*"rec" + 0.001*"adderall"
+
+Topic 10:
+0.004*"presses" + 0.004*"ecstasy" + 0.003*"ip" + 0.003*"substances" + 0.003*"crystals" + 0.003*"liquid" + 0.002*"ship" + 0.002*"dr" + 0.002*"wax" + 0.002*"gift" + 0.002*"recipe" + 0.002*"client" + 0.002*"telegram" + 0.002*"addy" + 0.002*"school" + 0.002*"distributor" + 0.002*"vial" + 0.001*"ability" + 0.001*"pop" + 0.001*"molly" + 0.001*"superlist" + 0.001*"shatter" + 0.001*"ephedrine" + 0.001*"rcs" + 0.001*"video" + 0.001*"web" + 0.001*"deems" + 0.001*"mmc" + 0.001*"technique" + 0.001*"spray"
+
+
+
+Year: 2020
+========================================
+Topic 1:
+0.005*"market" + 0.003*"page" + 0.003*"monopoly" + 0.003*"listings" + 0.003*"empire" + 0.003*"order" + 0.002*"markets" + 0.002*"products" + 0.002*"gr" + 0.002*"vendor" + 0.002*"time" + 0.002*"prices" + 0.002*"site" + 0.002*"hathor" + 0.002*"love" + 0.002*"stealth" + 0.002*"system" + 0.002*"lsd" + 0.002*"hug" + 0.002*"users" + 0.002*"drugs" + 0.001*"delivery" + 0.001*"people" + 0.001*"tor" + 0.001*"support" + 0.001*"days" + 0.001*"yellow" + 0.001*"lot" + 0.001*"comment" + 0.001*"course"
+
+Topic 2:
+0.003*"tails" + 0.002*"trouble" + 0.002*"messages" + 0.002*"websites" + 0.002*"vendorshop" + 0.002*"question" + 0.002*"vendors" + 0.002*"admin" + 0.002*"issue" + 0.002*"issues" + 0.002*"thanks" + 0.001*"terminal" + 0.001*"dutch" + 0.001*"install" + 0.001*"update" + 0.001*"quality" + 0.001*"javascript" + 0.001*"security" + 0.001*"transaction" + 0.001*"entities" + 0.001*"password" + 0.001*"wickr" + 0.001*"people" + 0.001*"persistance" + 0.001*"volume" + 0.001*"help" + 0.001*"electrum" + 0.001*"stuff" + 0.001*"posts" + 0.001*"answer"
+
+Topic 3:
+0.002*"tails" + 0.002*"profile" + 0.002*"vendor" + 0.002*"pills" + 0.002*"offer" + 0.002*"install" + 0.002*"market" + 0.002*"monopoly" + 0.002*"problem" + 0.002*"site" + 0.002*"posts" + 0.002*"guys" + 0.001*"time" + 0.001*"setup" + 0.001*"update" + 0.001*"date" + 0.001*"error" + 0.001*"none" + 0.001*"escrow" + 0.001*"account" + 0.001*"life" + 0.001*"quality" + 0.001*"permission" + 0.001*"minutes" + 0.001*"admin" + 0.001*"weed" + 0.001*"file" + 0.001*"community" + 0.001*"way" + 0.001*"gbp"
+
+Topic 4:
+0.004*"tails" + 0.003*"edit" + 0.002*"browser" + 0.002*"tor" + 0.002*"everytime" + 0.002*"dread" + 0.002*"market" + 0.002*"order" + 0.002*"one" + 0.002*"network" + 0.002*"admins" + 0.002*"mouse" + 0.002*"thanks" + 0.002*"captcha" + 0.002*"vpn" + 0.001*"auto" + 0.001*"way" + 0.001*"wifi" + 0.001*"ones" + 0.001*"vendors" + 0.001*"times" + 0.001*"site" + 0.001*"website" + 0.001*"time" + 0.001*"vendor" + 0.001*"data" + 0.001*"users" + 0.001*"reason" + 0.001*"post" + 0.001*"gpg"
+
+Topic 5:
+0.004*"keys" + 0.004*"gr" + 0.003*"tails" + 0.003*"usb" + 0.003*"mdma" + 0.002*"vendor" + 0.002*"import" + 0.002*"windows" + 0.002*"empire" + 0.002*"time" + 0.002*"guide" + 0.002*"storage" + 0.002*"way" + 0.002*"dread" + 0.002*"backup" + 0.002*"post" + 0.002*"vendors" + 0.002*"drive" + 0.002*"idea" + 0.002*"pil" + 0.002*"scam" + 0.002*"people" + 0.002*"info" + 0.001*"bulk" + 0.001*"weareamsterdam" + 0.001*"account" + 0.001*"today" + 0.001*"guys" + 0.001*"kg" + 0.001*"script"
+
+Topic 6:
+0.004*"way" + 0.003*"vendors" + 0.002*"tails" + 0.002*"market" + 0.002*"user" + 0.002*"button" + 0.002*"option" + 0.002*"link" + 0.002*"reason" + 0.002*"software" + 0.002*"title" + 0.002*"product" + 0.002*"cocaine" + 0.001*"time" + 0.001*"regards" + 0.001*"new" + 0.001*"monopoly" + 0.001*"speed" + 0.001*"problem" + 0.001*"today" + 0.001*"sites" + 0.001*"posts" + 0.001*"message" + 0.001*"marketplace" + 0.001*"orders" + 0.001*"site" + 0.001*"bit" + 0.001*"people" + 0.001*"brick" + 0.001*"grams"
+
+Topic 7:
+0.003*"tails" + 0.002*"usb" + 0.002*"cannabis" + 0.002*"problems" + 0.002*"things" + 0.002*"monopoly" + 0.002*"days" + 0.002*"vendor" + 0.002*"market" + 0.002*"globalcokeuk" + 0.002*"ml" + 0.002*"order" + 0.002*"files" + 0.002*"dread" + 0.002*"screen" + 0.001*"products" + 0.001*"option" + 0.001*"place" + 0.001*"tor" + 0.001*"experience" + 0.001*"drive" + 0.001*"login" + 0.001*"guides" + 0.001*"way" + 0.001*"folder" + 0.001*"os" + 0.001*"time" + 0.001*"update" + 0.001*"updates" + 0.001*"address"
+
+Topic 8:
+0.002*"people" + 0.002*"future" + 0.002*"tails" + 0.002*"orders" + 0.002*"service" + 0.002*"thanks" + 0.001*"usa" + 0.001*"vicecity" + 0.001*"code" + 0.001*"sales" + 0.001*"error" + 0.001*"drug" + 0.001*"cocaine" + 0.001*"work" + 0.001*"monopoly" + 0.001*"location" + 0.001*"vendor" + 0.001*"dollars" + 0.001*"vendors" + 0.001*"information" + 0.001*"usb" + 0.001*"colombian" + 0.001*"order" + 0.001*"us" + 0.001*"world" + 0.001*"text" + 0.001*"time" + 0.001*"onion" + 0.001*"situation" + 0.001*"plug"
+
+Topic 9:
+0.002*"thanks" + 0.002*"dnm" + 0.002*"guys" + 0.002*"electrum" + 0.002*"bitcoin" + 0.002*"care" + 0.002*"orders" + 0.002*"clearnet" + 0.002*"times" + 0.002*"xmr" + 0.001*"whm" + 0.001*"btc" + 0.001*"purchase" + 0.001*"monoply" + 0.001*"happyshopper" + 0.001*"user" + 0.001*"tails" + 0.001*"cryptopotamus" + 0.001*"amount" + 0.001*"romana" + 0.001*"cheers" + 0.001*"weareamdterdam" + 0.001*"onionshop" + 0.001*"pax" + 0.001*"post" + 0.001*"usb" + 0.001*"support" + 0.001*"account" + 0.001*"eveytime" + 0.001*"tales"
+
+Topic 10:
+0.005*"vendor" + 0.003*"market" + 0.002*"link" + 0.002*"monopoly" + 0.002*"today" + 0.002*"buy" + 0.002*"people" + 0.002*"markets" + 0.002*"trust" + 0.002*"thanks" + 0.002*"shop" + 0.001*"tails" + 0.001*"urls" + 0.001*"wikipedia" + 0.001*"btc" + 0.001*"wax" + 0.001*"darknet" + 0.001*"red" + 0.001*"marlboro" + 0.001*"genuine" + 0.001*"freeeverything" + 0.001*"reviews" + 0.001*"time" + 0.001*"usb" + 0.001*"replica" + 0.001*"dutyfreesmoking" + 0.001*"verified" + 0.001*"tobacco" + 0.001*"gold" + 0.001*"trusted"
+
+
+
+Year: 2019
+========================================
+Topic 1:
+0.002*"fail" + 0.002*"days" + 0.002*"dm" + 0.002*"dream" + 0.002*"security" + 0.002*"site" + 0.002*"hours" + 0.002*"service" + 0.002*"application" + 0.002*"forum" + 0.002*"day" + 0.002*"bullshit" + 0.002*"wall" + 0.002*"attacker" + 0.002*"shutdown" + 0.002*"moment" + 0.001*"market" + 0.001*"head" + 0.001*"ddos" + 0.001*"issue" + 0.001*"dread" + 0.001*"st" + 0.001*"traffic" + 0.001*"empireif" + 0.001*"hackersi" + 0.001*"read" + 0.001*"dos" + 0.001*"issues" + 0.001*"tor" + 0.001*"solution"
+
+Topic 2:
+0.003*"mirror" + 0.003*"dream" + 0.003*"announcement" + 0.002*"canary" + 0.002*"fresh" + 0.002*"guide" + 0.002*"june" + 0.002*"marketplace" + 0.002*"news" + 0.002*"time" + 0.002*"shipping" + 0.002*"tor" + 0.002*"browser" + 0.002*"radar" + 0.002*"market" + 0.002*"facepalm" + 0.002*"emoji" + 0.002*"fuck" + 0.002*"deepdotweb" + 0.002*"edit" + 0.002*"servers" + 0.002*"marketplaces" + 0.001*"domains" + 0.001*"informations" + 0.001*"feedback" + 0.001*"update" + 0.001*"developments" + 0.001*"month" + 0.001*"speedstepper" + 0.001*"example"
+
+Topic 3:
+0.003*"market" + 0.002*"way" + 0.002*"drive" + 0.002*"anybodu" + 0.002*"title" + 0.002*"hugbunter" + 0.002*"feedback" + 0.002*"vendors" + 0.002*"move" + 0.002*"empire" + 0.002*"gods" + 0.002*"exit" + 0.002*"heart" + 0.002*"ppl" + 0.002*"code" + 0.002*"years" + 0.002*"name" + 0.002*"superlist" + 0.002*"sales" + 0.002*"copy" + 0.002*"im" + 0.002*"vendor" + 0.001*"update" + 0.001*"man" + 0.001*"scamming" + 0.001*"list" + 0.001*"scam" + 0.001*"thanks" + 0.001*"working" + 0.001*"dread"
+
+Topic 4:
+0.002*"post" + 0.002*"reality" + 0.002*"vote" + 0.002*"manipulation" + 0.002*"dot" + 0.002*"deal" + 0.002*"team" + 0.002*"account" + 0.002*"nightmare" + 0.002*"comment" + 0.002*"chance" + 0.002*"dream" + 0.002*"exit" + 0.002*"vendor" + 0.002*"site" + 0.002*"wsm" + 0.002*"link" + 0.002*"ddosers" + 0.002*"money" + 0.002*"tor" + 0.002*"page" + 0.002*"result" + 0.001*"monopoly" + 0.001*"doors" + 0.001*"save" + 0.001*"debt" + 0.001*"dread" + 0.001*"clue" + 0.001*"intentions" + 0.001*"usernames"
+
+Topic 5:
+0.003*"posts" + 0.003*"characters" + 0.002*"captcha" + 0.002*"pm" + 0.002*"people" + 0.002*"post" + 0.002*"war" + 0.002*"way" + 0.002*"page" + 0.002*"guy" + 0.002*"matter" + 0.002*"friend" + 0.002*"time" + 0.001*"fails" + 0.001*"threads" + 0.001*"login" + 0.001*"message" + 0.001*"ones" + 0.001*"log" + 0.001*"onions" + 0.001*"shame" + 0.001*"vendors" + 0.001*"place" + 0.001*"hbi" + 0.001*"pen" + 0.001*"dread" + 0.001*"staff" + 0.001*"account" + 0.001*"breed" + 0.001*"comments"
+
+Topic 6:
+0.002*"samsara" + 0.002*"vendor" + 0.002*"markets" + 0.002*"clearweb" + 0.002*"waterchain" + 0.002*"market" + 0.002*"empire" + 0.002*"fg" + 0.002*"thoughts" + 0.002*"site" + 0.002*"vendors" + 0.002*"database" + 0.002*"wallstreet" + 0.002*"monero" + 0.002*"patrons" + 0.002*"dnm" + 0.001*"posts" + 0.001*"view" + 0.001*"launch" + 0.001*"scrapes" + 0.001*"care" + 0.001*"information" + 0.001*"upvotes" + 0.001*"orders" + 0.001*"video" + 0.001*"back" + 0.001*"exit" + 0.001*"monopoly" + 0.001*"reviews" + 0.001*"lot"
+
+Topic 7:
+0.003*"mods" + 0.003*"hugbunter" + 0.003*"dread" + 0.003*"staff" + 0.002*"couple" + 0.002*"days" + 0.002*"im" + 0.002*"tor" + 0.002*"admins" + 0.002*"market" + 0.002*"background" + 0.002*"attacks" + 0.002*"paris" + 0.002*"binance" + 0.002*"image" + 0.002*"warning" + 0.002*"darkdotfail" + 0.002*"account" + 0.002*"ddos" + 0.002*"disputes" + 0.002*"onion" + 0.002*"case" + 0.002*"orders" + 0.002*"support" + 0.002*"money" + 0.002*"xmr" + 0.002*"people" + 0.002*"funds" + 0.002*"checks" + 0.002*"users"
+
+Topic 8:
+0.002*"url" + 0.002*"dread" + 0.002*"market" + 0.002*"problem" + 0.002*"mod" + 0.002*"lots" + 0.002*"cannazone" + 0.002*"time" + 0.002*"site" + 0.002*"looks" + 0.002*"page" + 0.002*"problems" + 0.002*"forum" + 0.002*"way" + 0.002*"flag" + 0.002*"bitbazaar" + 0.002*"opwptnuebfzcpkyflpncmicktlrappyzkycqmedsyzgeyddotonion" + 0.002*"post" + 0.001*"server" + 0.001*"sense" + 0.001*"unsetu" + 0.001*"point" + 0.001*"contents" + 0.001*"users" + 0.001*"community" + 0.001*"thanks" + 0.001*"im" + 0.001*"kinda" + 0.001*"warning" + 0.001*"default"
+
+Topic 9:
+0.003*"issue" + 0.003*"dread" + 0.002*"account" + 0.002*"market" + 0.002*"page" + 0.002*"people" + 0.002*"minimum" + 0.002*"top" + 0.002*"frontpage" + 0.002*"vendor" + 0.002*"platform" + 0.002*"cryptonia" + 0.002*"shit" + 0.002*"packwoodsi" + 0.002*"hugbunter" + 0.002*"sub" + 0.002*"idea" + 0.002*"judge" + 0.002*"site" + 0.002*"working" + 0.002*"content" + 0.002*"maintenance" + 0.002*"dream" + 0.002*"service" + 0.002*"bt" + 0.002*"mew" + 0.002*"fuck" + 0.002*"verification" + 0.002*"lot" + 0.001*"review"
+
+Topic 10:
+0.004*"guys" + 0.004*"site" + 0.002*"http" + 0.002*"witchman" + 0.002*"sides" + 0.002*"markets" + 0.002*"price" + 0.002*"hugbunter" + 0.002*"services" + 0.002*"sites" + 0.002*"tips" + 0.001*"direction" + 0.001*"quicklick" + 0.001*"ql" + 0.001*"case" + 0.001*"mods" + 0.001*"target" + 0.001*"middle" + 0.001*"hackers" + 0.001*"cannazon" + 0.001*"ones" + 0.001*"scam" + 0.001*"marketplace" + 0.001*"computing" + 0.001*"flask" + 0.001*"darknet" + 0.001*"terms" + 0.001*"ransom" + 0.001*"use" + 0.001*"php"
+
+
+
+Year: 2018
+========================================
+Topic 1:
+0.003*"gp" + 0.003*"side" + 0.003*"site" + 0.003*"xd" + 0.003*"marketsplease" + 0.003*"thing" + 0.003*"hugbunter" + 0.003*"ddossed" + 0.003*"post" + 0.003*"today" + 0.002*"experiences" + 0.002*"puzzle" + 0.002*"meme" + 0.002*"bit" + 0.002*"minute" + 0.002*"guys" + 0.002*"dread" + 0.002*"market" + 0.002*"api" + 0.002*"server" + 0.002*"dream" + 0.002*"res" + 0.002*"photo" + 0.002*"escrow" + 0.002*"links" + 0.002*"trouble" + 0.002*"alot" + 0.002*"sub" + 0.002*"stuff" + 0.002*"onion"
+
+Topic 2:
+0.008*"hours" + 0.004*"faq" + 0.004*"posts" + 0.004*"coin" + 0.003*"staff" + 0.003*"quality" + 0.003*"subdread" + 0.003*"today" + 0.003*"profile" + 0.003*"change" + 0.003*"vendor" + 0.003*"error" + 0.003*"viewany" + 0.003*"hugzy" + 0.003*"bugs" + 0.002*"member" + 0.002*"days" + 0.002*"updates" + 0.002*"bullshit" + 0.002*"start" + 0.002*"page" + 0.002*"message" + 0.002*"information" + 0.002*"nope" + 0.002*"nada" + 0.002*"allowed" + 0.002*"samples" + 0.002*"nginx" + 0.002*"times" + 0.002*"hugbunter"
+
+Topic 3:
+0.004*"page" + 0.004*"hugbunter" + 0.003*"none" + 0.003*"url" + 0.003*"tails" + 0.003*"links" + 0.003*"update" + 0.003*"dream" + 0.003*"fuck" + 0.003*"support" + 0.003*"danknation" + 0.003*"message" + 0.003*"suggestion" + 0.003*"capchas" + 0.003*"site" + 0.003*"captcha" + 0.003*"session" + 0.002*"people" + 0.002*"verifysafeheaven" + 0.002*"speedsteppers" + 0.002*"responses" + 0.002*"account" + 0.002*"subs" + 0.002*"reddit" + 0.002*"order" + 0.002*"throw" + 0.002*"vendor" + 0.002*"shit" + 0.002*"browser" + 0.002*"dreadpit"
+
+Topic 4:
+0.006*"lot" + 0.004*"others" + 0.004*"user" + 0.003*"bit" + 0.003*"way" + 0.003*"reddit" + 0.003*"community" + 0.003*"weeks" + 0.003*"subdread" + 0.003*"guys" + 0.003*"ab" + 0.003*"allot" + 0.003*"settings" + 0.003*"certify" + 0.003*"encryption" + 0.002*"subdreads" + 0.002*"funnycheer" + 0.002*"day" + 0.002*"version" + 0.002*"likes" + 0.002*"peers" + 0.002*"goals" + 0.002*"ogxc" + 0.002*"shit" + 0.002*"sign" + 0.002*"thanks" + 0.002*"postedit" + 0.002*"limitshould" + 0.002*"dread" + 0.002*"security"
+
+Topic 5:
+0.004*"version" + 0.003*"awesomeness" + 0.003*"place" + 0.003*"results" + 0.003*"tails" + 0.003*"name" + 0.003*"limit" + 0.003*"whonix" + 0.003*"questions" + 0.003*"mda" + 0.003*"others" + 0.003*"character" + 0.002*"ddos" + 0.002*"marketing" + 0.002*"escapades" + 0.002*"dreademail" + 0.002*"search" + 0.002*"messages" + 0.002*"canadawho" + 0.002*"molly" + 0.002*"idea" + 0.002*"humboldtgrowers" + 0.002*"guys" + 0.002*"android" + 0.002*"helpam" + 0.002*"interest" + 0.002*"rss" + 0.002*"fly" + 0.002*"feeds" + 0.002*"hugbunter"
+
+Topic 6:
+0.004*"info" + 0.004*"ddw" + 0.004*"hugbunter" + 0.004*"vendors" + 0.003*"reason" + 0.003*"time" + 0.003*"hxr" + 0.003*"site" + 0.003*"verification" + 0.003*"exit" + 0.003*"olympus" + 0.003*"market" + 0.003*"thanks" + 0.003*"reallyjj" + 0.003*"money" + 0.003*"thread" + 0.003*"dread" + 0.003*"notifications" + 0.002*"way" + 0.002*"prozess" + 0.002*"everytime" + 0.002*"lets" + 0.002*"jabber" + 0.002*"work" + 0.002*"threes" + 0.002*"pairs" + 0.002*"users" + 0.002*"traderoute" + 0.002*"features" + 0.002*"clearnet"
+
+Topic 7:
+0.003*"market" + 0.003*"comments" + 0.003*"sub" + 0.003*"sketch" + 0.003*"hansa" + 0.003*"keywords" + 0.003*"vendor" + 0.002*"way" + 0.002*"scammer" + 0.002*"paymenteldoradopwfbuv" + 0.002*"marketplace" + 0.002*"message" + 0.002*"escrow" + 0.002*"email" + 0.002*"interfaceit" + 0.002*"lunamarmgedadag" + 0.002*"sign" + 0.002*"address" + 0.002*"protectedjust" + 0.002*"bitmessage" + 0.002*"qubes" + 0.002*"tocha" + 0.002*"title" + 0.002*"wickr" + 0.002*"scamanybody" + 0.002*"time" + 0.002*"start" + 0.002*"attention" + 0.002*"bar" + 0.002*"source"
+
+Topic 8:
+0.004*"community" + 0.004*"hugbunter" + 0.004*"market" + 0.004*"clarity" + 0.003*"messages" + 0.003*"itthanks" + 0.003*"jabber" + 0.003*"niceyellowbrick" + 0.003*"js" + 0.003*"server" + 0.003*"lol" + 0.003*"fall" + 0.003*"spam" + 0.003*"russian" + 0.003*"markets" + 0.003*"look" + 0.003*"wtf" + 0.003*"copy" + 0.002*"pages" + 0.002*"message" + 0.002*"tor" + 0.002*"monday" + 0.002*"rd" + 0.002*"tmg" + 0.002*"order" + 0.002*"influx" + 0.002*"dream" + 0.002*"one" + 0.002*"ship" + 0.002*"adminswho"
+
+Topic 9:
+0.006*"dread" + 0.004*"reddit" + 0.004*"dnm" + 0.004*"requirements" + 0.003*"list" + 0.003*"giveaway" + 0.003*"fuck" + 0.003*"time" + 0.003*"japanse" + 0.003*"question" + 0.003*"section" + 0.003*"onion" + 0.003*"codepbtzfloayuswwdotonionwill" + 0.003*"subdread" + 0.003*"reviews" + 0.003*"vendor" + 0.003*"monero" + 0.002*"icon" + 0.002*"mirrors" + 0.002*"chinese" + 0.002*"hugbunter" + 0.002*"xmrto" + 0.002*"history" + 0.002*"scammy" + 0.002*"coins" + 0.002*"site" + 0.002*"govtfreerossorg" + 0.002*"happy" + 0.002*"shapeshift" + 0.002*"reputation"
+
+Topic 10:
+0.005*"warning" + 0.004*"clearnet" + 0.004*"site" + 0.003*"dread" + 0.003*"lot" + 0.003*"pdf" + 0.003*"people" + 0.003*"pv" + 0.003*"front" + 0.003*"btc" + 0.003*"dimensions" + 0.003*"image" + 0.003*"wallet" + 0.003*"reddit" + 0.003*"banner" + 0.003*"hugfucker" + 0.003*"hugfuckers" + 0.003*"xmr" + 0.003*"screen" + 0.002*"mods" + 0.002*"subs" + 0.002*"electrum" + 0.002*"proxy" + 0.002*"ddw" + 0.002*"scam" + 0.002*"ddosed" + 0.002*"opinions" + 0.002*"subject" + 0.002*"publicity" + 0.002*"owner"
+
+
+
