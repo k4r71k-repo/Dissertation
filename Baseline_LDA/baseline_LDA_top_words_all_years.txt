@@ -1,0 +1,238 @@
+Year: 2024
+========================================
+Topic 1:
+0.027*"speed" + 0.027*"us" + 0.022*"gram" + 0.020*"precious" + 0.014*"yes" + 0.014*"oh" + 0.012*"ketamine" + 0.012*"thebreakingbad" + 0.010*"customers" + 0.009*"channel" + 0.009*"come" + 0.009*"together" + 0.008*"committed" + 0.008*"products" + 0.007*"netherlands" + 0.007*"quality" + 0.007*"take" + 0.006*"offer" + 0.006*"making" + 0.006*"order" + 0.006*"well" + 0.006*"new" + 0.006*"along" + 0.006*"want" + 0.006*"hope" + 0.005*"cocaine" + 0.005*"read" + 0.005*"journey" + 0.005*"reach" + 0.005*"crystal"
+
+Topic 2:
+0.012*"ketamine" + 0.012*"abacus" + 0.012*"also" + 0.011*"inc" + 0.011*"day" + 0.010*"best" + 0.010*"prices" + 0.010*"drughub" + 0.009*"serotonin" + 0.009*"etizolam" + 0.009*"amphetamine" + 0.009*"usa" + 0.009*"shipping" + 0.008*"quality" + 0.008*"cb" + 0.008*"cypher" + 0.007*"archetyp" + 0.007*"products" + 0.007*"sulfate" + 0.006*"many" + 0.006*"sales" + 0.006*"feedback" + 0.006*"go" + 0.006*"lower" + 0.006*"crystals" + 0.006*"positive" + 0.006*"super" + 0.006*"mdma" + 0.006*"download" + 0.006*"real"
+
+Topic 3:
+0.014*"quality" + 0.011*"best" + 0.011*"product" + 0.010*"us" + 0.009*"order" + 0.008*"market" + 0.008*"products" + 0.007*"high" + 0.007*"top" + 0.007*"tabs" + 0.007*"service" + 0.007*"free" + 0.007*"vendor" + 0.006*"shipping" + 0.006*"price" + 0.006*"markets" + 0.006*"cocaine" + 0.006*"always" + 0.005*"experience" + 0.005*"like" + 0.005*"great" + 0.005*"stealth" + 0.005*"provide" + 0.005*"every" + 0.005*"prices" + 0.005*"customers" + 0.004*"new" + 0.004*"delivery" + 0.004*"customer" + 0.004*"coke"
+
+Topic 4:
+0.013*"im" + 0.011*"would" + 0.011*"know" + 0.011*"like" + 0.010*"get" + 0.009*"dont" + 0.009*"use" + 0.007*"one" + 0.006*"people" + 0.006*"want" + 0.006*"anyone" + 0.006*"using" + 0.006*"good" + 0.006*"make" + 0.005*"need" + 0.005*"way" + 0.005*"even" + 0.005*"time" + 0.005*"help" + 0.005*"could" + 0.005*"ive" + 0.005*"find" + 0.004*"looking" + 0.004*"someone" + 0.004*"think" + 0.004*"go" + 0.004*"something" + 0.004*"much" + 0.004*"also" + 0.004*"really"
+
+Topic 5:
+0.015*"tails" + 0.013*"experience" + 0.011*"journey" + 0.011*"opium" + 0.009*"potent" + 0.008*"best" + 0.008*"embark" + 0.008*"excellence" + 0.007*"euphoria" + 0.007*"quality" + 0.007*"euphoric" + 0.006*"paste" + 0.006*"speed" + 0.006*"mdma" + 0.006*"offer" + 0.005*"world" + 0.005*"whonix" + 0.005*"usb" + 0.005*"meth" + 0.005*"pills" + 0.005*"aoil" + 0.005*"alertness" + 0.005*"offering" + 0.005*"products" + 0.004*"empathy" + 0.004*"lsd" + 0.004*"dissociation" + 0.004*"adventure" + 0.004*"sedation" + 0.004*"energy"
+
+Topic 6:
+0.009*"free" + 0.009*"pure" + 0.008*"ketamine" + 0.008*"usa" + 0.008*"lsd" + 0.007*"us" + 0.007*"mg" + 0.007*"mdma" + 0.006*"rocks" + 0.006*"vendor" + 0.006*"cocaine" + 0.006*"looking" + 0.006*"products" + 0.006*"quality" + 0.005*"grams" + 0.005*"markets" + 0.005*"pills" + 0.005*"countries" + 0.005*"heroin" + 0.005*"oz" + 0.005*"ship" + 0.004*"shipping" + 0.004*"colombian" + 0.004*"packages" + 0.004*"xtc" + 0.004*"sales" + 0.004*"market" + 0.004*"send" + 0.004*"good" + 0.004*"thc"
+
+Topic 7:
+0.021*"per" + 0.010*"iu" + 0.009*"market" + 0.008*"us" + 0.008*"ml" + 0.008*"powder" + 0.007*"shipping" + 0.007*"test" + 0.006*"order" + 0.006*"vial" + 0.006*"vials" + 0.006*"pill" + 0.006*"grams" + 0.006*"else" + 0.005*"mgml" + 0.005*"quality" + 0.005*"bulk" + 0.005*"mg" + 0.005*"always" + 0.005*"anywhere" + 0.005*"results" + 0.005*"offer" + 0.004*"stealth" + 0.004*"usd" + 0.004*"find" + 0.004*"iux" + 0.004*"prices" + 0.004*"teslas" + 0.004*"also" + 0.004*"mdma"
+
+Topic 8:
+0.010*"account" + 0.008*"bank" + 0.008*"need" + 0.008*"card" + 0.008*"accounts" + 0.007*"send" + 0.007*"phone" + 0.006*"new" + 0.005*"access" + 0.005*"credit" + 0.005*"name" + 0.005*"also" + 0.005*"us" + 0.005*"number" + 0.005*"cards" + 0.004*"payment" + 0.004*"work" + 0.004*"server" + 0.004*"business" + 0.004*"get" + 0.004*"id" + 0.004*"looking" + 0.004*"information" + 0.004*"data" + 0.004*"email" + 0.004*"message" + 0.004*"use" + 0.004*"escrow" + 0.004*"user" + 0.003*"crypto"
+
+Topic 9:
+0.016*"order" + 0.014*"vendor" + 0.009*"back" + 0.008*"days" + 0.006*"time" + 0.006*"anyone" + 0.006*"got" + 0.006*"orders" + 0.006*"ordered" + 0.005*"like" + 0.005*"address" + 0.005*"know" + 0.005*"one" + 0.005*"last" + 0.005*"good" + 0.005*"get" + 0.005*"im" + 0.005*"still" + 0.005*"ive" + 0.005*"vendors" + 0.004*"us" + 0.004*"name" + 0.004*"sent" + 0.004*"never" + 0.004*"week" + 0.004*"shipped" + 0.004*"would" + 0.003*"going" + 0.003*"package" + 0.003*"ago"
+
+Topic 10:
+0.024*"mg" + 0.019*"quality" + 0.017*"pills" + 0.016*"market" + 0.012*"vendor" + 0.011*"us" + 0.011*"euro" + 0.010*"products" + 0.008*"xtc" + 0.008*"find" + 0.007*"product" + 0.006*"high" + 0.006*"shipping" + 0.005*"check" + 0.005*"available" + 0.005*"bars" + 0.004*"store" + 0.004*"orders" + 0.004*"xanax" + 0.004*"best" + 0.004*"see" + 0.004*"order" + 0.004*"golden" + 0.004*"markets" + 0.004*"crystal" + 0.004*"profile" + 0.004*"search" + 0.004*"offer" + 0.004*"eu" + 0.004*"eachstarting"
+
+
+
+Year: 2021
+========================================
+Topic 1:
+0.008*"tails" + 0.007*"market" + 0.007*"get" + 0.006*"order" + 0.006*"im" + 0.006*"vendor" + 0.006*"vendors" + 0.006*"new" + 0.005*"would" + 0.005*"account" + 0.005*"want" + 0.005*"know" + 0.005*"dont" + 0.005*"message" + 0.005*"like" + 0.004*"people" + 0.004*"time" + 0.004*"also" + 0.004*"use" + 0.004*"back" + 0.004*"dread" + 0.004*"make" + 0.003*"users" + 0.003*"one" + 0.003*"using" + 0.003*"ive" + 0.003*"got" + 0.003*"good" + 0.003*"help" + 0.003*"find"
+
+Topic 2:
+0.012*"tails" + 0.006*"know" + 0.006*"get" + 0.006*"use" + 0.006*"like" + 0.006*"would" + 0.006*"im" + 0.006*"dont" + 0.005*"one" + 0.005*"market" + 0.005*"help" + 0.005*"password" + 0.005*"also" + 0.004*"make" + 0.004*"time" + 0.004*"new" + 0.004*"need" + 0.004*"connect" + 0.004*"even" + 0.004*"work" + 0.003*"could" + 0.003*"want" + 0.003*"using" + 0.003*"go" + 0.003*"cant" + 0.003*"tor" + 0.003*"error" + 0.003*"try" + 0.003*"install" + 0.003*"see"
+
+Topic 3:
+0.007*"would" + 0.007*"market" + 0.005*"grams" + 0.005*"like" + 0.004*"tails" + 0.004*"need" + 0.004*"order" + 0.004*"substance" + 0.004*"know" + 0.004*"also" + 0.004*"high" + 0.004*"mdma" + 0.004*"make" + 0.004*"one" + 0.004*"fentanyl" + 0.003*"ive" + 0.003*"added" + 0.003*"way" + 0.003*"time" + 0.003*"gram" + 0.003*"im" + 0.003*"looking" + 0.003*"morphine" + 0.003*"use" + 0.003*"vendor" + 0.003*"prices" + 0.003*"extra" + 0.003*"get" + 0.003*"markets" + 0.003*"anyone"
+
+Topic 4:
+0.008*"would" + 0.005*"feedback" + 0.004*"best" + 0.004*"market" + 0.003*"new" + 0.003*"like" + 0.003*"time" + 0.003*"buyers" + 0.003*"could" + 0.003*"vendors" + 0.003*"get" + 0.003*"using" + 0.003*"buyer" + 0.003*"orders" + 0.003*"see" + 0.002*"post" + 0.002*"one" + 0.002*"vendor" + 0.002*"say" + 0.002*"im" + 0.002*"anyone" + 0.002*"even" + 0.002*"getting" + 0.002*"good" + 0.002*"eachx" + 0.002*"update" + 0.002*"package" + 0.002*"many" + 0.002*"well" + 0.002*"look"
+
+Topic 5:
+0.006*"cocaine" + 0.006*"im" + 0.005*"new" + 0.005*"would" + 0.005*"make" + 0.005*"one" + 0.004*"base" + 0.004*"add" + 0.004*"like" + 0.003*"want" + 0.003*"get" + 0.003*"coca" + 0.003*"need" + 0.003*"also" + 0.003*"know" + 0.003*"drop" + 0.003*"tails" + 0.003*"way" + 0.003*"ammonia" + 0.003*"people" + 0.003*"ive" + 0.003*"done" + 0.002*"something" + 0.002*"use" + 0.002*"time" + 0.002*"better" + 0.002*"linux" + 0.002*"mount" + 0.002*"best" + 0.002*"oil"
+
+Topic 6:
+0.008*"anyone" + 0.006*"order" + 0.006*"market" + 0.006*"like" + 0.006*"know" + 0.006*"dread" + 0.005*"get" + 0.004*"monopoly" + 0.004*"day" + 0.004*"would" + 0.004*"account" + 0.004*"back" + 0.004*"possible" + 0.004*"way" + 0.003*"need" + 0.003*"could" + 0.003*"time" + 0.003*"payment" + 0.003*"dont" + 0.003*"us" + 0.003*"even" + 0.003*"new" + 0.003*"trying" + 0.003*"orders" + 0.003*"one" + 0.002*"see" + 0.002*"help" + 0.002*"go" + 0.002*"make" + 0.002*"address"
+
+Topic 7:
+0.012*"ml" + 0.008*"solution" + 0.005*"get" + 0.004*"acid" + 0.004*"mixture" + 0.004*"make" + 0.004*"water" + 0.004*"added" + 0.003*"like" + 0.003*"use" + 0.003*"flask" + 0.003*"reaction" + 0.003*"us" + 0.003*"add" + 0.003*"know" + 0.003*"solvent" + 0.003*"one" + 0.003*"temperature" + 0.003*"oil" + 0.003*"filter" + 0.003*"stirred" + 0.003*"im" + 0.003*"liquid" + 0.003*"cocaine" + 0.002*"people" + 0.002*"would" + 0.002*"dried" + 0.002*"work" + 0.002*"using" + 0.002*"market"
+
+Topic 8:
+0.018*"get" + 0.013*"tor" + 0.008*"packages" + 0.008*"could" + 0.007*"quality" + 0.006*"binfo" + 0.006*"amd" + 0.005*"im" + 0.005*"pdiff" + 0.005*"busterbackportsmain" + 0.005*"would" + 0.005*"like" + 0.005*"kbinfo" + 0.005*"one" + 0.004*"top" + 0.004*"privacybased" + 0.004*"use" + 0.004*"file" + 0.003*"us" + 0.003*"good" + 0.003*"cocaine" + 0.003*"translationen" + 0.003*"wallet" + 0.003*"around" + 0.003*"back" + 0.003*"monopoly" + 0.003*"know" + 0.003*"orders" + 0.003*"something" + 0.003*"stealth"
+
+Topic 9:
+0.008*"order" + 0.007*"vendor" + 0.007*"market" + 0.005*"get" + 0.005*"know" + 0.005*"free" + 0.004*"monopoly" + 0.003*"products" + 0.003*"per" + 0.003*"also" + 0.003*"mg" + 0.003*"use" + 0.003*"total" + 0.003*"new" + 0.003*"im" + 0.003*"us" + 0.003*"made" + 0.003*"like" + 0.003*"one" + 0.003*"found" + 0.003*"dmt" + 0.002*"sales" + 0.002*"still" + 0.002*"shipped" + 0.002*"drug" + 0.002*"see" + 0.002*"vendors" + 0.002*"drugs" + 0.002*"post" + 0.002*"dont"
+
+Topic 10:
+0.009*"would" + 0.006*"like" + 0.006*"time" + 0.005*"post" + 0.005*"know" + 0.005*"make" + 0.004*"dont" + 0.004*"anyone" + 0.004*"im" + 0.004*"ive" + 0.004*"see" + 0.004*"dread" + 0.004*"get" + 0.004*"one" + 0.004*"way" + 0.003*"good" + 0.003*"want" + 0.003*"could" + 0.003*"also" + 0.003*"us" + 0.003*"first" + 0.003*"tor" + 0.003*"think" + 0.003*"much" + 0.003*"go" + 0.003*"vendors" + 0.003*"made" + 0.002*"market" + 0.002*"always" + 0.002*"product"
+
+
+
+Year: 2023
+========================================
+Topic 1:
+0.010*"ml" + 0.007*"market" + 0.006*"solution" + 0.005*"pill" + 0.005*"betting" + 0.004*"water" + 0.004*"eur" + 0.004*"order" + 0.004*"us" + 0.004*"matter" + 0.003*"raw" + 0.003*"top" + 0.003*"dark" + 0.003*"material" + 0.003*"time" + 0.003*"thanks" + 0.003*"new" + 0.003*"base" + 0.003*"please" + 0.002*"mixture" + 0.002*"thc" + 0.002*"mg" + 0.002*"seeds" + 0.002*"get" + 0.002*"letter" + 0.002*"alpha" + 0.002*"keep" + 0.002*"hours" + 0.002*"without" + 0.002*"france"
+
+Topic 2:
+0.010*"market" + 0.005*"also" + 0.004*"vendor" + 0.004*"make" + 0.004*"vendors" + 0.003*"community" + 0.003*"use" + 0.003*"get" + 0.003*"drug" + 0.003*"information" + 0.003*"parcel" + 0.003*"drugs" + 0.003*"forum" + 0.003*"system" + 0.003*"research" + 0.003*"harm" + 0.002*"reduction" + 0.002*"supermarket" + 0.002*"need" + 0.002*"substances" + 0.002*"may" + 0.002*"safety" + 0.002*"chemicals" + 0.002*"ghb" + 0.002*"buyer" + 0.002*"added" + 0.002*"dispute" + 0.002*"provide" + 0.002*"effects" + 0.002*"support"
+
+Topic 3:
+0.019*"lsd" + 0.011*"removed" + 0.011*"acid" + 0.006*"campaign" + 0.006*"staff" + 0.005*"moderators" + 0.005*"ug" + 0.005*"ket" + 0.005*"humble" + 0.004*"love" + 0.004*"market" + 0.004*"badder" + 0.003*"ounces" + 0.003*"charges" + 0.003*"depending" + 0.003*"us" + 0.003*"donation" + 0.003*"tabs" + 0.003*"cannabis" + 0.003*"team" + 0.003*"white" + 0.003*"concentrates" + 0.003*"orders" + 0.003*"ounce" + 0.003*"mushrooms" + 0.002*"pound" + 0.002*"mate" + 0.002*"sale" + 0.002*"hope" + 0.002*"always"
+
+Topic 4:
+0.009*"tor" + 0.008*"tails" + 0.007*"users" + 0.005*"dread" + 0.005*"link" + 0.005*"vendors" + 0.005*"supermarket" + 0.005*"market" + 0.005*"make" + 0.004*"time" + 0.004*"see" + 0.004*"new" + 0.004*"ip" + 0.004*"site" + 0.004*"user" + 0.004*"using" + 0.003*"work" + 0.003*"use" + 0.003*"access" + 0.003*"address" + 0.003*"like" + 0.003*"onion" + 0.003*"captcha" + 0.003*"team" + 0.003*"check" + 0.003*"set" + 0.003*"page" + 0.003*"even" + 0.003*"usb" + 0.003*"update"
+
+Topic 5:
+0.010*"like" + 0.009*"vendor" + 0.009*"im" + 0.008*"good" + 0.007*"know" + 0.007*"order" + 0.007*"would" + 0.007*"vendors" + 0.007*"get" + 0.006*"one" + 0.005*"anyone" + 0.005*"dont" + 0.005*"time" + 0.005*"looking" + 0.005*"mg" + 0.005*"us" + 0.005*"got" + 0.005*"want" + 0.004*"need" + 0.004*"ive" + 0.004*"quality" + 0.004*"product" + 0.004*"new" + 0.004*"market" + 0.004*"people" + 0.004*"also" + 0.004*"best" + 0.004*"post" + 0.004*"shipping" + 0.003*"back"
+
+Topic 6:
+0.030*"looking" + 0.021*"vendor" + 0.020*"anyone" + 0.019*"im" + 0.017*"know" + 0.016*"vendors" + 0.012*"find" + 0.012*"would" + 0.010*"good" + 0.009*"us" + 0.008*"source" + 0.008*"help" + 0.007*"hi" + 0.007*"get" + 0.006*"someone" + 0.006*"ship" + 0.006*"please" + 0.006*"dont" + 0.006*"eu" + 0.006*"like" + 0.005*"markets" + 0.005*"need" + 0.005*"could" + 0.005*"best" + 0.005*"appreciated" + 0.004*"legit" + 0.004*"bulk" + 0.004*"thanks" + 0.004*"preferably" + 0.004*"uk"
+
+Topic 7:
+0.010*"market" + 0.009*"cas" + 0.007*"super" + 0.007*"compounds" + 0.005*"add" + 0.004*"like" + 0.004*"store" + 0.004*"one" + 0.004*"sell" + 0.003*"plus" + 0.003*"alprazolam" + 0.003*"link" + 0.003*"cannabinoids" + 0.003*"times" + 0.003*"term" + 0.003*"need" + 0.003*"compound" + 0.003*"buy" + 0.003*"cannabinoid" + 0.003*"speed" + 0.003*"well" + 0.003*"powder" + 0.003*"clonazepam" + 0.003*"delivery" + 0.003*"dangerous" + 0.002*"long" + 0.002*"thing" + 0.002*"real" + 0.002*"new" + 0.002*"free"
+
+Topic 8:
+0.019*"vendor" + 0.009*"searching" + 0.008*"market" + 0.008*"aus" + 0.007*"posts" + 0.007*"carts" + 0.006*"title" + 0.005*"replies" + 0.005*"says" + 0.004*"great" + 0.004*"direct" + 0.004*"one" + 0.004*"advertising" + 0.004*"hash" + 0.004*"vendors" + 0.004*"talking" + 0.004*"shit" + 0.003*"real" + 0.003*"thanks" + 0.003*"incognito" + 0.003*"flair" + 0.003*"importing" + 0.003*"shipping" + 0.003*"monopoly" + 0.003*"fast" + 0.003*"locally" + 0.003*"tordoor" + 0.003*"trustworthy" + 0.003*"spray" + 0.003*"offer"
+
+Topic 9:
+0.009*"solutions" + 0.006*"us" + 0.005*"products" + 0.005*"mgml" + 0.005*"fxe" + 0.004*"fmph" + 0.004*"grade" + 0.004*"bromazolam" + 0.004*"distillate" + 0.004*"stock" + 0.004*"cocaine" + 0.004*"rating" + 0.004*"sales" + 0.004*"leading" + 0.003*"stamp" + 0.003*"soma" + 0.003*"policies" + 0.003*"bohemia" + 0.003*"specifics" + 0.003*"odsmt" + 0.003*"lot" + 0.003*"shipping" + 0.003*"contact" + 0.003*"machines" + 0.003*"urgent" + 0.003*"prints" + 0.002*"pg" + 0.002*"delicious" + 0.002*"visit" + 0.002*"pyrazolam"
+
+Topic 10:
+0.010*"know" + 0.010*"get" + 0.009*"dont" + 0.008*"would" + 0.007*"find" + 0.007*"market" + 0.007*"dread" + 0.007*"use" + 0.007*"using" + 0.006*"one" + 0.006*"markets" + 0.006*"like" + 0.006*"im" + 0.006*"anyone" + 0.006*"buy" + 0.005*"time" + 0.005*"account" + 0.005*"ive" + 0.005*"want" + 0.005*"way" + 0.005*"help" + 0.004*"cant" + 0.004*"could" + 0.004*"bohemia" + 0.004*"people" + 0.004*"trying" + 0.004*"used" + 0.004*"since" + 0.004*"right" + 0.003*"need"
+
+
+
+Year: 2022
+========================================
+Topic 1:
+0.012*"like" + 0.008*"would" + 0.008*"market" + 0.006*"get" + 0.006*"want" + 0.006*"vendors" + 0.006*"make" + 0.005*"new" + 0.005*"vendor" + 0.005*"one" + 0.005*"dont" + 0.004*"gram" + 0.004*"order" + 0.004*"euro" + 0.004*"post" + 0.004*"im" + 0.004*"even" + 0.003*"people" + 0.003*"need" + 0.003*"time" + 0.003*"dread" + 0.003*"use" + 0.003*"also" + 0.003*"way" + 0.003*"money" + 0.003*"know" + 0.003*"see" + 0.003*"could" + 0.003*"site" + 0.003*"go"
+
+Topic 2:
+0.017*"tails" + 0.006*"using" + 0.005*"tor" + 0.004*"use" + 0.004*"tried" + 0.004*"would" + 0.004*"know" + 0.003*"usb" + 0.003*"could" + 0.003*"wallet" + 0.003*"cant" + 0.003*"problem" + 0.003*"way" + 0.003*"dread" + 0.003*"get" + 0.003*"even" + 0.003*"whonix" + 0.002*"dont" + 0.002*"one" + 0.002*"help" + 0.002*"version" + 0.002*"clearnet" + 0.002*"another" + 0.002*"connect" + 0.002*"wifi" + 0.002*"running" + 0.002*"drive" + 0.002*"file" + 0.002*"without" + 0.002*"copy"
+
+Topic 3:
+0.005*"ghost" + 0.004*"speed" + 0.004*"subdread" + 0.003*"anything" + 0.003*"darkde" + 0.002*"moved" + 0.002*"malware" + 0.002*"isnt" + 0.002*"gs" + 0.002*"codeine" + 0.002*"bit" + 0.002*"paste" + 0.002*"links" + 0.002*"scarce" + 0.002*"copied" + 0.002*"batch" + 0.002*"email" + 0.002*"artwork" + 0.002*"painkillers" + 0.002*"tapentadol" + 0.002*"hq" + 0.002*"else" + 0.002*"barbiturates" + 0.002*"retail" + 0.002*"ebay" + 0.002*"pill" + 0.001*"order" + 0.001*"tried" + 0.001*"shipped" + 0.001*"cream"
+
+Topic 4:
+0.021*"tails" + 0.010*"tor" + 0.009*"usb" + 0.008*"persistent" + 0.006*"browser" + 0.006*"install" + 0.005*"package" + 0.005*"using" + 0.005*"storage" + 0.005*"files" + 0.005*"ip" + 0.004*"new" + 0.004*"get" + 0.004*"upgrade" + 0.004*"settings" + 0.003*"make" + 0.003*"boot" + 0.003*"error" + 0.003*"open" + 0.003*"work" + 0.003*"getting" + 0.003*"fix" + 0.003*"screen" + 0.003*"try" + 0.003*"run" + 0.003*"use" + 0.003*"windows" + 0.003*"linux" + 0.003*"im" + 0.003*"file"
+
+Topic 5:
+0.014*"ships" + 0.004*"qubes" + 0.003*"vendor" + 0.002*"security" + 0.002*"cpu" + 0.002*"germany" + 0.002*"somewhere" + 0.002*"app" + 0.002*"getting" + 0.002*"available" + 0.002*"thx" + 0.002*"etc" + 0.002*"nn" + 0.002*"recs" + 0.002*"search" + 0.002*"ms" + 0.002*"intel" + 0.002*"something" + 0.002*"found" + 0.002*"squid" + 0.002*"youtube" + 0.002*"privacy" + 0.002*"please" + 0.002*"chemistry" + 0.002*"know" + 0.001*"cpus" + 0.001*"since" + 0.001*"darkode" + 0.001*"nembutal" + 0.001*"prefered"
+
+Topic 6:
+0.005*"mg" + 0.004*"im" + 0.004*"cannahome" + 0.004*"many" + 0.004*"market" + 0.004*"get" + 0.003*"provider" + 0.003*"lmk" + 0.003*"like" + 0.003*"would" + 0.003*"please" + 0.003*"trying" + 0.003*"pharmacy" + 0.003*"turkey" + 0.003*"blister" + 0.002*"friend" + 0.002*"pms" + 0.002*"bay" + 0.002*"generic" + 0.002*"goto" + 0.002*"real" + 0.002*"message" + 0.002*"dhl" + 0.002*"darkfox" + 0.002*"alpha" + 0.002*"one" + 0.002*"passports" + 0.002*"best" + 0.002*"help" + 0.002*"dpd"
+
+Topic 7:
+0.030*"looking" + 0.023*"vendor" + 0.015*"anyone" + 0.015*"know" + 0.015*"good" + 0.013*"vendors" + 0.013*"im" + 0.011*"find" + 0.010*"would" + 0.009*"market" + 0.009*"need" + 0.009*"us" + 0.008*"thanks" + 0.008*"help" + 0.007*"markets" + 0.007*"someone" + 0.007*"quality" + 0.006*"please" + 0.006*"shipping" + 0.005*"like" + 0.005*"buy" + 0.005*"get" + 0.005*"source" + 0.005*"bulk" + 0.005*"uk" + 0.005*"best" + 0.005*"also" + 0.004*"one" + 0.004*"hi" + 0.004*"ship"
+
+Topic 8:
+0.012*"im" + 0.011*"know" + 0.009*"anyone" + 0.009*"dont" + 0.009*"get" + 0.007*"ive" + 0.007*"like" + 0.007*"time" + 0.006*"good" + 0.005*"vendors" + 0.005*"really" + 0.005*"got" + 0.004*"would" + 0.004*"need" + 0.004*"one" + 0.004*"much" + 0.004*"people" + 0.004*"find" + 0.004*"shit" + 0.004*"order" + 0.004*"also" + 0.004*"go" + 0.004*"want" + 0.003*"last" + 0.003*"still" + 0.003*"vendor" + 0.003*"going" + 0.003*"something" + 0.003*"even" + 0.003*"since"
+
+Topic 9:
+0.012*"ml" + 0.010*"water" + 0.007*"solution" + 0.007*"acid" + 0.005*"make" + 0.005*"add" + 0.005*"use" + 0.005*"mixture" + 0.005*"reaction" + 0.004*"removed" + 0.004*"product" + 0.003*"grams" + 0.003*"need" + 0.003*"flask" + 0.003*"liquid" + 0.003*"dissolve" + 0.003*"dry" + 0.003*"also" + 0.003*"take" + 0.003*"powder" + 0.003*"added" + 0.003*"staff" + 0.003*"ghb" + 0.003*"one" + 0.003*"get" + 0.003*"minutes" + 0.003*"ether" + 0.002*"time" + 0.002*"mix" + 0.002*"filter"
+
+Topic 10:
+0.014*"market" + 0.007*"order" + 0.005*"back" + 0.005*"got" + 0.004*"vendor" + 0.004*"message" + 0.004*"vendors" + 0.004*"orders" + 0.004*"dread" + 0.004*"new" + 0.004*"time" + 0.004*"one" + 0.004*"account" + 0.004*"abacus" + 0.003*"post" + 0.003*"get" + 0.003*"good" + 0.003*"listings" + 0.003*"users" + 0.003*"never" + 0.003*"still" + 0.003*"sent" + 0.003*"nothing" + 0.003*"like" + 0.003*"update" + 0.003*"xmr" + 0.003*"first" + 0.003*"username" + 0.003*"see" + 0.003*"please"
+
+
+
+Year: 2020
+========================================
+Topic 1:
+0.016*"thc" + 0.010*"order" + 0.007*"ml" + 0.007*"indoor" + 0.006*"hybrid" + 0.005*"still" + 0.005*"vendor" + 0.005*"know" + 0.005*"tails" + 0.005*"time" + 0.004*"market" + 0.004*"us" + 0.004*"get" + 0.004*"sativa" + 0.004*"products" + 0.004*"xmr" + 0.004*"new" + 0.004*"dont" + 0.004*"wallet" + 0.003*"oil" + 0.003*"im" + 0.003*"good" + 0.003*"monopoly" + 0.003*"pack" + 0.003*"also" + 0.003*"days" + 0.003*"would" + 0.003*"since" + 0.003*"come" + 0.003*"vendors"
+
+Topic 2:
+0.007*"get" + 0.006*"tails" + 0.005*"time" + 0.005*"market" + 0.005*"usb" + 0.004*"help" + 0.004*"want" + 0.004*"bitcoin" + 0.004*"new" + 0.004*"wallet" + 0.004*"one" + 0.003*"tor" + 0.003*"back" + 0.003*"need" + 0.003*"mg" + 0.003*"vendor" + 0.003*"every" + 0.003*"could" + 0.003*"days" + 0.003*"know" + 0.003*"ive" + 0.003*"see" + 0.003*"use" + 0.003*"install" + 0.003*"got" + 0.003*"order" + 0.002*"people" + 0.002*"things" + 0.002*"deposit" + 0.002*"stick"
+
+Topic 3:
+0.007*"dont" + 0.007*"vendor" + 0.006*"order" + 0.006*"make" + 0.006*"like" + 0.006*"get" + 0.004*"vendors" + 0.004*"even" + 0.004*"post" + 0.004*"know" + 0.004*"dread" + 0.003*"us" + 0.003*"buy" + 0.003*"people" + 0.003*"dispute" + 0.003*"market" + 0.003*"would" + 0.003*"use" + 0.003*"since" + 0.003*"see" + 0.003*"go" + 0.003*"really" + 0.003*"dutyfreesmoking" + 0.003*"community" + 0.003*"please" + 0.003*"marlboro" + 0.003*"send" + 0.002*"want" + 0.002*"review" + 0.002*"trust"
+
+Topic 4:
+0.010*"tails" + 0.007*"im" + 0.006*"get" + 0.006*"new" + 0.005*"time" + 0.005*"know" + 0.005*"using" + 0.005*"right" + 0.005*"usb" + 0.004*"way" + 0.004*"tor" + 0.004*"message" + 0.004*"dread" + 0.004*"ive" + 0.004*"site" + 0.004*"make" + 0.004*"want" + 0.004*"dont" + 0.003*"like" + 0.003*"would" + 0.003*"need" + 0.003*"order" + 0.003*"network" + 0.003*"find" + 0.003*"use" + 0.003*"onion" + 0.003*"really" + 0.003*"says" + 0.003*"able" + 0.003*"one"
+
+Topic 5:
+0.011*"market" + 0.008*"tails" + 0.007*"use" + 0.007*"like" + 0.006*"new" + 0.005*"people" + 0.005*"get" + 0.005*"one" + 0.004*"markets" + 0.004*"dont" + 0.004*"im" + 0.004*"time" + 0.004*"us" + 0.004*"anyone" + 0.004*"drugs" + 0.003*"need" + 0.003*"ive" + 0.003*"want" + 0.003*"would" + 0.003*"vendor" + 0.003*"help" + 0.003*"know" + 0.003*"account" + 0.003*"monopoly" + 0.003*"take" + 0.003*"got" + 0.003*"back" + 0.003*"see" + 0.003*"make" + 0.002*"please"
+
+Topic 6:
+0.011*"market" + 0.009*"people" + 0.008*"would" + 0.007*"like" + 0.006*"lsd" + 0.005*"new" + 0.005*"markets" + 0.005*"one" + 0.004*"drugs" + 0.004*"vendor" + 0.004*"darknet" + 0.004*"time" + 0.003*"get" + 0.003*"vendors" + 0.003*"good" + 0.003*"im" + 0.003*"also" + 0.003*"dread" + 0.003*"way" + 0.003*"make" + 0.003*"drug" + 0.003*"see" + 0.003*"think" + 0.003*"test" + 0.003*"first" + 0.003*"take" + 0.002*"say" + 0.002*"really" + 0.002*"thought" + 0.002*"many"
+
+Topic 7:
+0.008*"tails" + 0.004*"vendors" + 0.004*"get" + 0.004*"still" + 0.004*"would" + 0.004*"anyone" + 0.004*"order" + 0.004*"us" + 0.003*"running" + 0.003*"first" + 0.003*"time" + 0.003*"dread" + 0.003*"wickr" + 0.003*"partition" + 0.003*"mdma" + 0.002*"take" + 0.002*"try" + 0.002*"ive" + 0.002*"good" + 0.002*"safe" + 0.002*"start" + 0.002*"maybe" + 0.002*"post" + 0.002*"wont" + 0.002*"best" + 0.002*"darkdotfail" + 0.002*"scam" + 0.002*"something" + 0.002*"moron" + 0.002*"since"
+
+Topic 8:
+0.011*"market" + 0.008*"vendor" + 0.008*"monopoly" + 0.007*"like" + 0.006*"good" + 0.006*"order" + 0.005*"get" + 0.004*"us" + 0.004*"vendors" + 0.004*"im" + 0.004*"find" + 0.004*"make" + 0.004*"dont" + 0.004*"markets" + 0.004*"time" + 0.004*"one" + 0.004*"cant" + 0.003*"new" + 0.003*"want" + 0.003*"also" + 0.003*"know" + 0.003*"work" + 0.003*"many" + 0.003*"data" + 0.003*"gramms" + 0.003*"grams" + 0.003*"see" + 0.003*"things" + 0.003*"shit" + 0.003*"people"
+
+Topic 9:
+0.006*"market" + 0.006*"information" + 0.006*"get" + 0.006*"like" + 0.005*"drug" + 0.005*"people" + 0.004*"tails" + 0.003*"dread" + 0.003*"vendor" + 0.003*"score" + 0.003*"find" + 0.003*"help" + 0.003*"rule" + 0.003*"new" + 0.003*"pm" + 0.003*"support" + 0.003*"keep" + 0.003*"email" + 0.003*"vendors" + 0.003*"thanks" + 0.003*"im" + 0.003*"phone" + 0.003*"getting" + 0.002*"harm" + 0.002*"users" + 0.002*"know" + 0.002*"text" + 0.002*"post" + 0.002*"also" + 0.002*"need"
+
+Topic 10:
+0.047*"euro" + 0.018*"gr" + 0.016*"pil" + 0.010*"cb" + 0.010*"yellow" + 0.006*"lsd" + 0.006*"people" + 0.006*"subdread" + 0.006*"post" + 0.005*"us" + 0.005*"batman" + 0.004*"bat" + 0.004*"would" + 0.004*"use" + 0.004*"like" + 0.004*"mg" + 0.004*"dont" + 0.004*"time" + 0.003*"know" + 0.003*"orders" + 0.003*"bulk" + 0.003*"lot" + 0.003*"xtc" + 0.003*"much" + 0.003*"get" + 0.003*"tails" + 0.003*"also" + 0.003*"free" + 0.003*"page" + 0.003*"way"
+
+
+
+Year: 2019
+========================================
+Topic 1:
+0.008*"market" + 0.008*"dont" + 0.006*"dream" + 0.005*"message" + 0.005*"vendor" + 0.005*"people" + 0.005*"get" + 0.005*"know" + 0.004*"vendors" + 0.004*"use" + 0.004*"messages" + 0.003*"please" + 0.003*"account" + 0.003*"every" + 0.003*"hours" + 0.003*"jor" + 0.003*"would" + 0.003*"also" + 0.003*"support" + 0.003*"read" + 0.003*"like" + 0.003*"time" + 0.003*"staff" + 0.003*"could" + 0.003*"new" + 0.003*"want" + 0.003*"case" + 0.003*"always" + 0.003*"name" + 0.003*"service"
+
+Topic 2:
+0.009*"site" + 0.008*"would" + 0.007*"mg" + 0.006*"new" + 0.006*"us" + 0.005*"dread" + 0.005*"codeine" + 0.004*"please" + 0.004*"like" + 0.004*"flavor" + 0.004*"available" + 0.004*"flavors" + 0.004*"urls" + 0.004*"private" + 0.004*"people" + 0.004*"posts" + 0.004*"know" + 0.004*"use" + 0.004*"every" + 0.004*"lot" + 0.003*"time" + 0.003*"access" + 0.003*"latest" + 0.003*"make" + 0.003*"want" + 0.003*"listing" + 0.003*"oz" + 0.003*"shipping" + 0.003*"orders" + 0.003*"source"
+
+Topic 3:
+0.012*"would" + 0.010*"thc" + 0.008*"market" + 0.007*"per" + 0.005*"ml" + 0.005*"vendor" + 0.005*"one" + 0.004*"indoor" + 0.004*"wsm" + 0.004*"like" + 0.004*"many" + 0.004*"page" + 0.004*"hybrid" + 0.004*"vendors" + 0.004*"sativa" + 0.003*"oil" + 0.003*"still" + 0.003*"markets" + 0.003*"please" + 0.003*"dread" + 0.003*"get" + 0.003*"users" + 0.003*"people" + 0.003*"know" + 0.003*"new" + 0.003*"money" + 0.003*"message" + 0.003*"user" + 0.003*"exit" + 0.003*"use"
+
+Topic 4:
+0.007*"wsm" + 0.007*"market" + 0.005*"aka" + 0.005*"dread" + 0.005*"dark" + 0.004*"community" + 0.004*"markets" + 0.004*"use" + 0.004*"like" + 0.004*"also" + 0.004*"account" + 0.004*"exit" + 0.004*"one" + 0.004*"opsec" + 0.003*"light" + 0.003*"used" + 0.003*"vendors" + 0.003*"using" + 0.003*"le" + 0.003*"people" + 0.003*"new" + 0.003*"feel" + 0.003*"btc" + 0.003*"money" + 0.003*"get" + 0.003*"address" + 0.002*"dream" + 0.002*"users" + 0.002*"many" + 0.002*"blue"
+
+Topic 5:
+0.008*"dream" + 0.007*"market" + 0.005*"wall" + 0.005*"new" + 0.005*"ddos" + 0.004*"dread" + 0.004*"people" + 0.004*"want" + 0.004*"tor" + 0.004*"le" + 0.004*"know" + 0.003*"also" + 0.003*"wsm" + 0.003*"street" + 0.003*"anyone" + 0.003*"answer" + 0.003*"later" + 0.003*"guys" + 0.003*"back" + 0.003*"case" + 0.003*"im" + 0.003*"network" + 0.003*"users" + 0.002*"would" + 0.002*"heroin" + 0.002*"keep" + 0.002*"spam" + 0.002*"trying" + 0.002*"vendors" + 0.002*"us"
+
+Topic 6:
+0.008*"dread" + 0.006*"new" + 0.006*"monero" + 0.006*"make" + 0.005*"market" + 0.005*"like" + 0.005*"post" + 0.005*"people" + 0.004*"im" + 0.004*"tor" + 0.004*"platform" + 0.004*"time" + 0.004*"vendor" + 0.004*"since" + 0.003*"please" + 0.003*"need" + 0.003*"said" + 0.003*"use" + 0.003*"go" + 0.003*"reddit" + 0.003*"javascript" + 0.003*"get" + 0.003*"service" + 0.003*"onion" + 0.003*"subs" + 0.003*"dream" + 0.003*"know" + 0.003*"money" + 0.003*"going" + 0.002*"able"
+
+Topic 7:
+0.012*"may" + 0.012*"wallet" + 0.009*"market" + 0.007*"dread" + 0.007*"sent" + 0.005*"xmr" + 0.005*"could" + 0.005*"get" + 0.005*"site" + 0.005*"gets" + 0.005*"know" + 0.005*"lot" + 0.004*"amounts" + 0.004*"main" + 0.004*"items" + 0.004*"view" + 0.004*"new" + 0.004*"thank" + 0.004*"transaction" + 0.004*"time" + 0.004*"like" + 0.004*"le" + 0.004*"going" + 0.004*"vendor" + 0.003*"even" + 0.003*"always" + 0.003*"drug" + 0.003*"exchange" + 0.003*"monero" + 0.003*"would"
+
+Topic 8:
+0.009*"vendors" + 0.008*"get" + 0.006*"post" + 0.006*"people" + 0.006*"vendor" + 0.005*"know" + 0.005*"uhugbunter" + 0.004*"right" + 0.004*"comment" + 0.004*"using" + 0.004*"would" + 0.004*"see" + 0.004*"make" + 0.004*"stealth" + 0.003*"time" + 0.003*"anyone" + 0.003*"need" + 0.003*"money" + 0.003*"take" + 0.003*"like" + 0.003*"come" + 0.003*"empire" + 0.003*"links" + 0.003*"dont" + 0.003*"even" + 0.003*"fuck" + 0.003*"dark" + 0.003*"much" + 0.003*"use" + 0.003*"took"
+
+Topic 9:
+0.008*"know" + 0.008*"dont" + 0.007*"dread" + 0.006*"market" + 0.006*"people" + 0.005*"think" + 0.005*"like" + 0.005*"get" + 0.005*"much" + 0.005*"time" + 0.005*"fucking" + 0.004*"site" + 0.004*"vendors" + 0.004*"im" + 0.004*"even" + 0.004*"also" + 0.004*"post" + 0.004*"would" + 0.004*"shit" + 0.004*"page" + 0.003*"say" + 0.003*"go" + 0.003*"one" + 0.003*"vendor" + 0.003*"package" + 0.003*"everyone" + 0.003*"fuck" + 0.003*"us" + 0.003*"attack" + 0.003*"markets"
+
+Topic 10:
+0.008*"market" + 0.006*"tor" + 0.006*"like" + 0.005*"dont" + 0.005*"browser" + 0.004*"get" + 0.004*"new" + 0.004*"know" + 0.004*"support" + 0.003*"le" + 0.003*"ticket" + 0.003*"empire" + 0.003*"make" + 0.003*"people" + 0.003*"think" + 0.003*"use" + 0.003*"couple" + 0.003*"markets" + 0.003*"vendor" + 0.003*"would" + 0.003*"back" + 0.003*"alfred" + 0.003*"fred" + 0.002*"os" + 0.002*"tails" + 0.002*"set" + 0.002*"security" + 0.002*"im" + 0.002*"good" + 0.002*"two"
+
+
+
+Year: 2018
+========================================
+Topic 1:
+0.009*"people" + 0.008*"like" + 0.008*"dread" + 0.007*"also" + 0.007*"think" + 0.006*"know" + 0.006*"use" + 0.006*"markets" + 0.006*"would" + 0.006*"im" + 0.006*"vendors" + 0.006*"market" + 0.005*"community" + 0.005*"reddit" + 0.005*"dont" + 0.005*"much" + 0.005*"site" + 0.004*"money" + 0.004*"new" + 0.004*"free" + 0.004*"time" + 0.004*"monero" + 0.003*"even" + 0.003*"lot" + 0.003*"post" + 0.003*"since" + 0.003*"keep" + 0.003*"good" + 0.003*"exit" + 0.003*"list"
+
+Topic 2:
+0.007*"brothers" + 0.006*"one" + 0.006*"help" + 0.006*"please" + 0.005*"dread" + 0.005*"time" + 0.005*"opioids" + 0.005*"could" + 0.005*"people" + 0.004*"like" + 0.004*"search" + 0.004*"message" + 0.004*"would" + 0.004*"want" + 0.004*"vendor" + 0.004*"post" + 0.004*"dark" + 0.004*"yearold" + 0.004*"prosecution" + 0.003*"see" + 0.003*"us" + 0.003*"server" + 0.003*"web" + 0.003*"fentanyl" + 0.003*"badge" + 0.003*"others" + 0.003*"copy" + 0.003*"something" + 0.003*"need" + 0.003*"since"
+
+Topic 3:
+0.014*"market" + 0.008*"vendor" + 0.007*"dread" + 0.007*"new" + 0.006*"states" + 0.006*"data" + 0.006*"united" + 0.005*"postal" + 0.005*"vendors" + 0.005*"reddit" + 0.005*"markets" + 0.005*"email" + 0.005*"security" + 0.004*"one" + 0.004*"information" + 0.004*"package" + 0.004*"fentanyl" + 0.004*"users" + 0.004*"would" + 0.004*"kiessling" + 0.004*"dream" + 0.004*"may" + 0.003*"user" + 0.003*"account" + 0.003*"like" + 0.003*"back" + 0.003*"posts" + 0.003*"profile" + 0.003*"around" + 0.003*"page"
+
+Topic 4:
+0.014*"call" + 0.006*"need" + 0.006*"like" + 0.006*"dread" + 0.005*"know" + 0.005*"thread" + 0.004*"get" + 0.004*"site" + 0.004*"us" + 0.004*"one" + 0.004*"ddw" + 0.004*"characters" + 0.004*"scam" + 0.004*"url" + 0.004*"vanity" + 0.004*"tocha" + 0.003*"want" + 0.003*"since" + 0.003*"posts" + 0.003*"give" + 0.003*"back" + 0.003*"name" + 0.003*"would" + 0.003*"gtx" + 0.003*"editing" + 0.003*"average" + 0.003*"remove" + 0.003*"comments" + 0.003*"days" + 0.003*"market"
+
+Topic 5:
+0.008*"new" + 0.008*"site" + 0.008*"time" + 0.007*"got" + 0.007*"get" + 0.005*"update" + 0.005*"back" + 0.005*"use" + 0.005*"ive" + 0.004*"may" + 0.004*"trust" + 0.004*"make" + 0.004*"load" + 0.004*"start" + 0.004*"aaa" + 0.004*"awesome" + 0.004*"oz" + 0.004*"og" + 0.003*"please" + 0.003*"find" + 0.003*"dont" + 0.003*"regularly" + 0.003*"went" + 0.003*"never" + 0.003*"still" + 0.003*"theyre" + 0.003*"remember" + 0.003*"shipped" + 0.003*"posting" + 0.003*"dream"
+
+Topic 6:
+0.010*"data" + 0.005*"dread" + 0.005*"little" + 0.005*"post" + 0.005*"hotel" + 0.005*"one" + 0.004*"turkish" + 0.004*"market" + 0.004*"posted" + 0.004*"last" + 0.004*"hotels" + 0.004*"cybercrime" + 0.004*"cybersecurity" + 0.004*"companies" + 0.004*"hackers" + 0.003*"please" + 0.003*"dcoke" + 0.003*"people" + 0.003*"dream" + 0.003*"scam" + 0.003*"removed" + 0.003*"going" + 0.003*"gave" + 0.003*"already" + 0.003*"later" + 0.003*"including" + 0.003*"liu" + 0.003*"sale" + 0.003*"made" + 0.003*"chinese"
+
+Topic 7:
+0.012*"im" + 0.009*"like" + 0.009*"people" + 0.008*"vendors" + 0.008*"dont" + 0.007*"post" + 0.006*"something" + 0.006*"even" + 0.006*"time" + 0.006*"get" + 0.006*"dread" + 0.005*"ive" + 0.005*"rules" + 0.005*"way" + 0.004*"reddit" + 0.004*"think" + 0.004*"could" + 0.004*"user" + 0.004*"page" + 0.004*"forum" + 0.004*"see" + 0.004*"users" + 0.004*"would" + 0.003*"also" + 0.003*"mods" + 0.003*"market" + 0.003*"top" + 0.003*"made" + 0.003*"sub" + 0.003*"posts"
+
+Topic 8:
+0.007*"know" + 0.006*"one" + 0.005*"still" + 0.005*"drugs" + 0.005*"think" + 0.005*"im" + 0.005*"uhugbunter" + 0.004*"could" + 0.003*"people" + 0.003*"world" + 0.003*"going" + 0.003*"best" + 0.003*"technology" + 0.003*"used" + 0.003*"hugbunter" + 0.003*"someone" + 0.003*"let" + 0.003*"scammed" + 0.003*"ddos" + 0.003*"handle" + 0.003*"safer" + 0.003*"side" + 0.003*"etc" + 0.003*"better" + 0.003*"along" + 0.003*"thanks" + 0.003*"lead" + 0.003*"leak" + 0.003*"guys" + 0.003*"dread"
+
+Topic 9:
+0.008*"private" + 0.006*"captcha" + 0.006*"profile" + 0.006*"dread" + 0.006*"im" + 0.005*"see" + 0.004*"using" + 0.004*"shit" + 0.004*"get" + 0.004*"page" + 0.004*"new" + 0.004*"would" + 0.004*"right" + 0.004*"uhugbunter" + 0.004*"like" + 0.004*"service" + 0.004*"reddit" + 0.004*"people" + 0.004*"anything" + 0.004*"hugbunter" + 0.004*"posted" + 0.004*"hes" + 0.004*"time" + 0.004*"clearnet" + 0.003*"also" + 0.003*"hours" + 0.003*"safest" + 0.003*"market" + 0.003*"fuck" + 0.003*"dream"
+
+Topic 10:
+0.009*"dread" + 0.006*"one" + 0.005*"seized" + 0.005*"police" + 0.005*"new" + 0.005*"civil" + 0.005*"us" + 0.004*"authorities" + 0.004*"market" + 0.004*"tails" + 0.004*"work" + 0.004*"private" + 0.004*"operation" + 0.004*"guard" + 0.004*"drug" + 0.004*"customers" + 0.004*"law" + 0.004*"also" + 0.003*"group" + 0.003*"use" + 0.003*"users" + 0.003*"orders" + 0.003*"still" + 0.003*"im" + 0.003*"many" + 0.003*"humans" + 0.003*"research" + 0.003*"organization" + 0.003*"number" + 0.003*"dark"
+
+
+
